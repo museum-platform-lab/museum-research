@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+desktop.ini
+.DS_Store
+*.gdoc
+*.gsheet
+*.log
+__pycache__/
+.venv/
+# Papers, datasets, archives and images remain on Drive.
+*.pdf
+*.docx
+*.zip
+*.7z
