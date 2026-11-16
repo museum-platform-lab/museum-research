@@ -1,0 +1,11 @@
+{
+  "ids_unique": true,
+  "suggestions_24": true,
+  "catalogue_rows": 101,
+  "progress_totals_match": true,
+  "union_matches_per_direction": true,
+  "excerpt_max18_words": true,
+  "no_missing_abstract_excluded": true,
+  "no_formal_or_human_decisions": true,
+  "fulltext_extraction_not_done": true
+}
