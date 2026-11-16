@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "original_rows_preserved": true,
+    "old_version_families_88": true,
+    "new_candidates_13": true,
+    "catalogue_101": true,
+    "lead_occurrences_preserved": true,
+    "unique_leads_241": true,
+    "all_not_screened": true,
+    "ids_unique": true,
+    "ris_count": true,
+    "bib_count": true,
+    "doi_exact_unique": true
+  },
+  "scope": "Bookkeeping/metadata only, not scientific validity or human screening."
+}

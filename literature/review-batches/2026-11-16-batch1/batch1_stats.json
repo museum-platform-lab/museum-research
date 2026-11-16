@@ -1,0 +1,36 @@
+{
+  "batch": "B1_METADATA_AUDIT",
+  "date": "2026-11-16",
+  "original_records": 90,
+  "grouped_version_pairs": 2,
+  "original_version_families": 88,
+  "new_candidates_recovered_from_old_leads": 13,
+  "current_catalogue_entries": 101,
+  "original_dois_checked": 61,
+  "doi_http200_after_bounded_retries": 61,
+  "original_venue_metadata_present": 65,
+  "original_asof_statuses": {
+    "AVAILABLE_BY_CUTOFF_FROM_PUBLICATION_METADATA": 90
+  },
+  "new_asof_statuses": {
+    "AVAILABLE_BY_CUTOFF_FROM_PUBLICATION_METADATA": 13
+  },
+  "lead_occurrences": 254,
+  "unique_lead_urls": 241,
+  "lead_statuses_unique": {
+    "NEW_CANDIDATE_IDENTIFIED_FROM_OLD_LEAD": 13,
+    "EXISTING_PAPER_REPRESENTATION": 51,
+    "UNRESOLVED_DOCUMENT_TITLE": 7,
+    "PAPER_LEAD_UNRESOLVED": 15,
+    "INDEX_TOOL_OR_AUTHOR_PAGE": 15,
+    "CODE_DATA_OR_MODEL_RESOURCE": 48,
+    "EXISTING_PAPER_LEAD_TRUNCATED_TITLE": 16,
+    "CONTEXT_OR_DISCUSSION_SOURCE": 62,
+    "SECONDARY_GUIDE_OR_BIBLIOGRAPHY": 10,
+    "THESIS_OR_LONG_FORM_DOCUMENT": 3,
+    "OTHER_RESOURCE_REQUIRES_REVIEW": 1
+  },
+  "formal_included": 0,
+  "fulltexts_reviewed": 0,
+  "human_crosschecks": 0
+}
