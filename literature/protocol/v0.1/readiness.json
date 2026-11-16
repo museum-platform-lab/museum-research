@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "status": "DRAFT_NOT_LOCKED",
+  "date": "2026-11-16",
+  "formal_queries_run_this_batch": 0,
+  "formal_screening_decisions_this_batch": 0,
+  "input_scoping_candidates": 101,
+  "rq_registered": false,
+  "teacher_approved": false,
+  "primary_databases_verified": 0,
+  "formal_start_date": null,
+  "formal_stop_date": null,
+  "protocol_lock_commit": null,
+  "second_human_reviewer": null,
+  "next_batch": "PILOT_SCOPING_TITLE_ABSTRACT",
+  "gates_pending": [
+    "confirm_RQ_PICO_and_year_window",
+    "pilot_native_queries_and_verify_at_least_3_primary_databases",
+    "assign_source_owners_and_independent_reviewer",
+    "set_formal_dates_and_commit_locked_protocol"
+  ]
+}
