@@ -9,3 +9,9 @@ Snapshot ngày 15/11/2026, chưa có nghiên cứu mới được tạo trong đ
 Không chứa toàn bộ mã nguồn sản phẩm, paper PDF, dữ liệu crawl, hội thoại thật, dump database hoặc ảnh/dataset lớn. Không có protocol, search log, quyết định screening hay BibTeX độc lập được phát hiện để bổ sung. Mã nguồn thực thi nằm ở repo museum-platform cùng owner.
 
 Không upload Drive hoặc xác minh bản sao cloud trong đợt này. Tài liệu nguồn vẫn nguyên vẹn. Không tự cấp giấy phép mới cho nội dung trích dẫn từ bên thứ ba; phải kiểm tra quyền trước khi xuất bản/chia sẻ rộng hơn.
+
+## Literature discovery — cập nhật 16/11/2026
+
+Đã thêm [hồ sơ khám phá tài liệu](literature/README.md) với 90 bản ghi paper ứng viên, metadata, BibTeX/RIS, search log và dedup log. Đây là công việc mới sau snapshot 15/11 ở phần trên. Chưa khóa protocol, chưa screening/full-text review, chưa có paper included chính thức hoặc kết luận gap.
+
+Raw logs và script được lưu trên Drive, tham chiếu bằng [manifest của đợt discovery](literature/discovery/2026-11-16/external-data-manifest.json). Các hồ sơ thẩm định hiện vật và blueprint vẫn giữ trạng thái như snapshot cũ.

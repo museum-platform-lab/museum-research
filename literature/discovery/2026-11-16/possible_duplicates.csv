@@ -1,0 +1,3 @@
+﻿record_a,record_b,similarity,title_a,title_b,decision
+45,44,0.791,Correctness is not Faithfulness in RAG Attributions,Correctness is not Faithfulness in Retrieval Augmented Generation Attributions,VERSION_OR_DUPLICATE_REVIEW_PENDING
+51,49,0.921,DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs,(D)RAGged Into a Conflict: Detecting and Addressing Conflicting Sources in Retrieval-Augmented LLMs,VERSION_OR_DUPLICATE_REVIEW_PENDING

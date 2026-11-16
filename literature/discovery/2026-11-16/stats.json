@@ -1,0 +1,29 @@
+{
+  "raw_returned_hits": 405,
+  "canonical_source_candidates": 114,
+  "unique_candidate_records": 90,
+  "representations_merged": 24,
+  "auxiliary_hits_not_counted_as_papers": 254,
+  "source_metadata_retrieved": 90,
+  "metadata_pending": 0,
+  "potential_duplicate_pairs": 2,
+  "formal_included": 0,
+  "fulltexts_reviewed": 0,
+  "topic_counts_overlapping": {
+    "T1": 23,
+    "T2": 42,
+    "T3": 66,
+    "T4": 18,
+    "T5": 14,
+    "T6": 12
+  },
+  "dates": {
+    "ON_OR_BEFORE_CUTOFF": 43,
+    "DATE_CHECK_PENDING": 47
+  },
+  "metadata_fetch_statuses": {
+    "METADATA_FETCHED": 105,
+    "HTTP_ERROR": 5,
+    "FETCH_ERROR": 4
+  }
+}
