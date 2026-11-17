@@ -1,0 +1,102 @@
+discovery_id,title,source_batch,p1_v1_suggestion,p2_v1_suggestion,union_v1_suggestion,human_validated,formal_inclusion
+P001,MuseRAG++: a deep retrieval-augmented generation framework for semantic interaction and multi-modal reasoning in virtual museums,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P002,ATLAS: Harnessing retrieval-augmented generation (RAG),PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+P004,Context or Retrieval? Evaluating RAG Methods for Art and Museum QA System,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P008,Vichat: summary-augmented contextual retrieval for Vietnamese intangible cultural heritage question answering,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P010,When the Machine Speaks for the Collection: Deployed Generative AI in Museums and Art Galleries—A Scoping Review,PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+P012,A Dataset for Multimodal Question Answering in the Cultural Heritage Domain,PILOT24,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P014,VISCOUNTH: A Large-scale Multilingual Visual Question Answering Dataset for Cultural Heritage,PILOT24,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P016,ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset,PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+P073,VQArt-Bench: A semantically rich VQA Benchmark for Art and Cultural Heritage,PILOT24,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P081,VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery,PILOT24,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P083,Evaluating a Radius-based Pipeline for Question Answering over Cultural (CIDOC-CRM based) Knowledge Graphs,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P090,MuseumQA: A Fine-Grained Question Answering Dataset for Museums and Artifacts,PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+P018,RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P044,Correctness is not Faithfulness in Retrieval Augmented Generation Attributions,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P046,Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P049,(D)RAGged Into a Conflict: Detecting and Addressing Conflicting Sources in Retrieval-Augmented LLMs,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P050,Sufficient Context: A New Lens on Retrieval Augmented Generation Systems,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P058,COVER: Context-Driven Over-Refusal Verification in LLMs,PILOT24,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+P069,ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P076,FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation,PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+P086,From Local to Global: A Graph RAG Approach to Query-Focused Summarization,PILOT24,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+N001,An Evaluation of LLM-based Chatbots for Enhancing the Visitor’s User Experience at Cultural Exhibits,PILOT24,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+N008,Claim-Aware Scientific RAG: Evidence-First Retrieval and Abstention for Scientific Fact Responses on SciFact,PILOT24,UNSURE,UNSURE,UNSURE,NO,NO
+N011,DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge,PILOT24,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P003,A Tool-Augmented AI Agent for Grounded Access to European Cultural Heritage,DAY2_BATCH2_DELTA,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P005,CultureBot: A Framework for Retrieval-Augmented Exploration of Cultural Heritage Data,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P006,Explainable semantic question answering system for cultural heritage: a framework based on a dual-layer knowledge graph and self-RAG-inspired adaptive retrieval—a case study of Liao Dynasty tomb mural costume,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P007,An Intelligent Docent System with a Small Large Language Model (sLLM) Based on Retrieval-Augmented Generation (RAG),DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P009,HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P011,Investigating the role of conversational agents in augmented cultural heritage tours,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P013,Understanding Museum Exhibits using Vision-Language Reasoning,DAY2_77,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P015,Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference for Cost-Effective Cultural Heritage Dataset Generation,DAY2_77,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P017,Do LLMs Know When Evidence is Insufficient? An Evidence Sufficiency Benchmark for Answer-Abstention Calibration in Retrieval-Augmented Generation,DAY2_BATCH2_DELTA,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P019,RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P020,Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P021,Cited but Unused: Parametric Provenance in Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P022,How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P023,Relevance Is Not Sufficient Evidence: Detecting Evidence Gaps Before Generation in RAG,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P024,"A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges",DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P025,"Evaluating Retrieval Augmented Generation: A Comprehensive Review of Evaluation Dimensions, Question Types, and Application",DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P026,Evaluating and Fine-Tuning Retrieval-Augmented Language Models to Generate Text with Accurate Citations,DAY2_BATCH2_DELTA,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P027,The Attribution-Compression Frontier in Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P028,Retrieval-augmented generation for natural language processing: a survey,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P029,Retrieval Augmented Generation for Large Language Models: A Methodological Survey,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P030,GuidelineGuard: An Agentic Retrieval-Augmented Generation Framework with Sentence-Level Citation Auditing for Guideline-Grounded Question Answering,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P031,A Review of Retrieval-Augmented Generation Technology,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P032,Evaluation of Attribution Bias in Generator-Aware Retrieval-Augmented Large Language Models,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P033,Towards evidence-aware retrieval-augmented generation via self-corrective chain-of-thought,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P034,"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",DAY2_BATCH2_DELTA,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P035,HyperSU: Corpus-Driven Semantic-Unit Hypergraph for Retrieval-Augmented Generation,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+P036,HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+P037,MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries,DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+P038,StepChain GraphRAG: Reasoning Over Knowledge Graphs for Multi-Hop Question Answering,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+P039,Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+P040,SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P041,GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation,DAY2_BATCH2_DELTA,EXCLUDE,UNSURE,UNSURE,NO,NO
+P042,A Query-Driven Graph Retrieval Framework with Adaptive Pruning for Multi-Hop Question Answering,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+P043,Adaptive iterative retrieval for enhanced retrieval-augmented generation,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P047,Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P048,"From Documents to Decisions: Enterprise-Grade LLM Systems for Zero-Hallucination, Attributed Generation, and Regulatory Alignment",DAY2_BATCH2_DELTA,UNSURE,UNSURE,UNSURE,NO,NO
+P052,EPRAG: An epistemic policy framework for action selection in multi-source enterprise retrieval-augmented generation,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P053,When Evidence Conflicts: Uncertainty and Order Effects in Retrieval-Augmented Biomedical Question Answering,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P054,Retrieval-Augmented Generation with Conflicting Evidence,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P055,Sufficiency-Gated Retrieval-Augmented Generation: Reducing Hallucination via Context Adequacy Estimation,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P056,Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P057,Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P059,All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG,DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+P060,Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness,DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+P061,MEMERAG: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P062,Which Works Best for Vietnamese? A Practical Study of Information Retrieval Methods across Domains,DAY2_77,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+P063,Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P064,The Language of Evidence: Robustness and Bias in Code-Switched RAG,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P065,Towards Vietnamese Question and Answer Generation: An Empirical Study,DAY2_77,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+P066,Retrieval-augmented generation in multilingual settings,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P067,A Survey of conversational AI from rule based to generative and retrieval augmented generation chatbots,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P068,Evaluating Open-Source LLMs in RAG Systems: A Benchmark on Diploma Theses Abstracts Using Ragas,DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+P070,Claim level graph reasoning for training free LLM hallucination mitigation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P071,Diffusion-Pretrained Dense and Contextual Embeddings,DAY2_77,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+P072,Benchmarking Vision Language Models for Cultural Understanding,DAY2_BATCH2_DELTA,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P074,ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Dataset for World Heritage Sites in China,DAY2_77,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P075,BERGEN: A Benchmarking Library for Retrieval-Augmented Generation,DAY2_77,UNSURE,UNSURE,UNSURE,NO,NO
+P077,MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages,DAY2_77,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
+P078,"RARR: Researching and Revising What Language Models Say, Using Language Models",DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P079,RAGAs: Automated Evaluation of Retrieval Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P080,SEA-VQA: Southeast Asian Cultural Context Dataset For Visual Question Answering,DAY2_77,INCLUDE,EXCLUDE,INCLUDE,NO,NO
+P082,LongHisDoc: A Comprehensive Benchmark for Chinese Long Historical Document Understanding,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P084,Enabling Large Language Models to Generate Text with Citations,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P085,Corrective Retrieval Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P087,RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+P088,"HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+P089,A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers,DAY2_77,INCLUDE,UNSURE,INCLUDE,NO,NO
+N002,Enhancing Archival Transparency with AI: A RAG-based Case Study on Cinematic Heritage,DAY2_BATCH2_DELTA,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N003,Cultural Faithfulness in Tourism Chatbots: A Structured Human Adjudication Framework for Traceable Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N004,Benchmarking Large Language Models in Retrieval-Augmented Generation,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N005,When Abstention Gates Overtrust Noisy Evidence: An Empirical Audit of Calibration and Thresholding in Lightweight RAG Evidence-Sufficiency Models,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N006,"Evidence-Calibrated RAG for Unanswerable Question Answering: Retrieval Coverage, Abstention Calibration, and Hallucination-Proxy Analysis on SQuAD 2.0",DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N007,SCMRAG: Self-Corrective Multihop Retrieval Augmented Generation System for LLM Agents,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N009,Segmentation-Aware and Context-Reranked Retrieval-Augmented Generation for Vietnamese Question Answering,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+N010,Evidence-Bound Factual Repair in Retrieval-Augmented LLM Answers: Separating Semantic Localization from Deterministic Realization,DAY2_77,INCLUDE,INCLUDE,INCLUDE,NO,NO
+N012,HyperReCo: Retrieving and Connecting Evidence with Hypergraph Neural Networks for LLM Multi-hop Reasoning,DAY2_77,EXCLUDE,UNSURE,UNSURE,NO,NO
+N013,EuroBERT: Scaling Multilingual Encoders for European Languages,DAY2_77,EXCLUDE,EXCLUDE,EXCLUDE,NO,NO
