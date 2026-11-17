@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P020",
+    "url": "https://aclanthology.org/2026.aacl-long.153.pdf",
+    "utc": "2026-11-17T12:52:37.309569+00:00",
+    "http": 200,
+    "truncated": false,
+    "sha256": "7131a4191da4963b66d1abdf5644ce3b5cd6f7b51d6ffa20a5a78a11108ba171"
+  },
+  {
+    "id": "P023",
+    "url": "https://arxiv.org/pdf/2609.37469",
+    "utc": "2026-11-17T12:52:37.310536+00:00",
+    "http": 200,
+    "truncated": false,
+    "sha256": "ed6e7751839f4519b97ade703b31ba430b7042a076fc785a433ef8868e377365"
+  },
+  {
+    "id": "P030",
+    "url": "https://www.mdpi.com/2079-3197/14/9/210",
+    "utc": "2026-11-17T12:52:37.311326+00:00",
+    "http": 200,
+    "truncated": false,
+    "sha256": "35a7aa35e53fe2f09ef4cf4551099aad41ff8f5bf8bc27a043a99b34463443e6"
+  },
+  {
+    "id": "P054",
+    "url": "https://arxiv.org/pdf/2504.13079",
+    "utc": "2026-11-17T12:52:37.311930+00:00",
+    "http": 200,
+    "truncated": false,
+    "sha256": "69f75ca159ec4aa5fe64c0f271a0496fab20c70102f5292ec6417a3c57d2053f"
+  }
+]

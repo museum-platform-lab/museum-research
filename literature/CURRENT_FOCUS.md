@@ -8,4 +8,8 @@
 
 V0.1 ledger63/30/8 giữ để truy vết. V0.2 KG trial70/11/12/8 là hồ sơ thử scope lịch sử, **không phải active selection/experiment plan** sau steering này. Không dùng70 như số RAG papers included. Các graph papers vẫn cần cite nếu gần contribution, không bị xóa hoặc relabel ngoài phạm vi chỉ do đổi ưu tiên.
 
-Active reading view: `review-batches/2026-11-17-rag-focus/rag_priority_view101.csv`. Active experiment draft: cùng thư mục, `evaluation-design.md`. Đây là planning/scoping, chưa khóa protocol, formal included, human validation hoặc chạy inference.
+**Ưu tiên công việc ngay lúc này: tiếp tục literature review — đọc toàn văn có phạm vi rõ, trích bằng chứng kèm section/table/page, đối chiếu nearest work và tổng hợp phản biện. Literature chưa hoàn tất; chưa chuyển sang tạo benchmark, xây corpus thí nghiệm hoặc chạy mô hình.** Đây là điều chỉnh theo nhắc lại của người dùng “literature chưa xong mà?” / “không đọc tiếp hả”.
+
+Active reading view: `review-batches/2026-11-17-rag-focus/rag_priority_view101.csv`. Đợt đọc mới nhất: `review-batches/2026-11-17-reading-round1/reading-synthesis.md`, cùng extraction4 và evidence-ledger22. Bốn bài là phạm vi đọc của lượt này, không phải bốn formal included studies. V0.1 ledger không đổi.
+
+`review-batches/2026-11-17-rag-focus/evaluation-design.md` và các experiment matrices chỉ là draft tham khảo, không phải bước thực hiện ưu tiên hiện tại. Chưa khóa protocol/search, eligibility, human validation, novelty hay chạy inference.
