@@ -1,0 +1,34 @@
+{
+  "review_date_local": "2026-11-17",
+  "timezone": "Asia/Saigon",
+  "new_records": 77,
+  "union77": {
+    "UNSURE": 30,
+    "INCLUDE": 42,
+    "EXCLUDE": 5
+  },
+  "union101": {
+    "INCLUDE": 57,
+    "UNSURE": 36,
+    "EXCLUDE": 8
+  },
+  "missing_abstract_ids": [
+    "P003",
+    "P017",
+    "P026",
+    "P033",
+    "P034",
+    "P041",
+    "P043",
+    "P048",
+    "P052",
+    "P055",
+    "P072",
+    "N002"
+  ],
+  "previous_pilot_records_preserved": 24,
+  "human_validation": "NOT_DONE",
+  "formal_included": null,
+  "KG_general_stream": "PENDING_PROTOCOL_AMENDMENT_NOT_SILENTLY_INCLUDED",
+  "extraction_or_experiments_run": false
+}
