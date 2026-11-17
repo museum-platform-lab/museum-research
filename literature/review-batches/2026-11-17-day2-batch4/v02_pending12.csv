@@ -1,0 +1,13 @@
+id,title,v01_p1,v01_p2,v01_union,v02_trial_status,v02_trial_reason,protocol,formal_inclusion,human_validation
+P002,ATLAS: Harnessing retrieval-augmented generation (RAG),UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P090,MuseumQA: A Fine-Grained Question Answering Dataset for Museums and Artifacts,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+N008,Claim-Aware Scientific RAG: Evidence-First Retrieval and Abstention for Scientific Fact Responses on SciFact,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P033,Towards evidence-aware retrieval-augmented generation via self-corrective chain-of-thought,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P043,Adaptive iterative retrieval for enhanced retrieval-augmented generation,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P052,EPRAG: An epistemic policy framework for action selection in multi-source enterprise retrieval-augmented generation,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P055,Sufficiency-Gated Retrieval-Augmented Generation: Reducing Hallucination via Context Adequacy Estimation,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P063,Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P064,The Language of Evidence: Robustness and Bias in Code-Switched RAG,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P066,Retrieval-augmented generation in multilingual settings,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+P075,BERGEN: A Benchmarking Library for Retrieval-Augmented Generation,UNSURE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
+N009,Segmentation-Aware and Context-Reranked Retrieval-Augmented Generation for Vietnamese Question Answering,EXCLUDE,UNSURE,UNSURE,PENDING,Carry-forward v0.1 AI suggestion; not formal eligibility.,0.2_DRAFT_UNCONFIRMED,NO,NOT_DONE
