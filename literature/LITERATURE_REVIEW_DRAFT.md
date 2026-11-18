@@ -44,6 +44,8 @@ UAEval4RAG tách phản hồi phù hợp theo loại câu khỏi tỷ lệ từ 
 
 IIRC và HotpotQA cung cấp tiền lệ cho nhãn bằng chứng ở cấp đoạn trích hoặc câu. IIRC kiểm riêng pipeline khi được cấp liên kết và ngữ cảnh chuẩn. HotpotQA báo riêng đáp án, câu hỗ trợ và điểm kết hợp. MuseumQA còn chờ toàn văn nên chưa đối chiếu được cấu trúc nhãn cùng miền. [Ghi chú đọc đợt 4 ngày 19/11](review-batches/2026-11-19-day4-round4/reading-notes.md).
 
+Lost in the Middle cho thấy chuyển đoạn chứa đáp án vào giữa ngữ cảnh có thể làm giảm độ đúng dù đoạn đó vẫn được đưa cho mô hình. NoLiMa minh họa một lỗi khác: đoạn nhiễu trùng từ khóa có thể lấn át bằng chứng dùng cách diễn đạt khác. Với RAG bảo tàng, nên chấm riêng việc truy xuất có đưa được đoạn chuẩn vào ngữ cảnh và việc mô hình có dùng đúng đoạn đó để trả lời. Một phép thử giữ nguyên tập đoạn và đổi vị trí nguồn chuẩn. Phép thử khác giữ nguyên nguồn chuẩn và vị trí rồi thay đoạn phụ bằng hồ sơ của hiện vật khác có từ khóa tương tự. [Ghi chú đọc đợt 8 ngày 19/11](review-batches/2026-11-19-day4-round8/reading-notes.md).
+
 ## 4. Sinh với bằng chứng và kiểm từ ng ý
 
 [ReClaim(P046)](https://aclanthology.org/2025.findings-naacl.55.pdf) chọn reference trước rồi sinh claim, dùng constrained decoding để reference khớp nguồn cung cấp. Đây là tiền lệ cho evidence-first sentence generation. Nhưng citation membership không bảo đảm entailment. Table 2 còn cho citation support tăng trong khi answer recall giảm ở một số bộ dữ liệu: cùngLlama3-8B, ELI5CAS42,8→89,9 còn claimrecall20,5→17,8. Khả năng trả lời đủ nội dung cần được đọc cùng mức hỗ trợ của phần đã trả lời.
