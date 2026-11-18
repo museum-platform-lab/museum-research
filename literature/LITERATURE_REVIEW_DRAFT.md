@@ -1,6 +1,6 @@
 # Tổng quan tài liệu v1: Trợ lý bảo tàng tiếng Việt trả lời dựa trên bằng chứng
 
-Cập nhật 18/11/2026. Đây là bản tổng hợp có lập luận từ 14 paper IDs trong chuỗi extraction chuẩn hóa, bên cạnh catalog 101 ứng viên và hồ sơ các đợt trước. Không phải14 bài lần đầu được đọc, một tập bài đã được nhận chính thức hay systematic review đã hoàn tất. Hai lead mới chưa đọc toàn văn được giữ riêng. Mục tiêu hiện hành là text-first evidence-grounded RAG; KG vẫn ở vai trò đối chiếu/mở rộng tương lai.
+Cập nhật 18/11/2026. Đây là bản tổng hợp có lập luận từ 14 paper IDs trong chuỗi extraction chuẩn hóa, bên cạnh catalog 101 ứng viên và hồ sơ các đợt trước. Không phải14 bài lần đầu được đọc, một tập bài đã được nhận chính thức hay systematic review đã hoàn tất. Hai đầu mối mới đã được đọc ở đợt 4 và được ghi riêng trong phần đối chiếu bổ sung. Mục tiêu hiện hành là text-first evidence-grounded RAG; KG vẫn ở vai trò đối chiếu/mở rộng tương lai.
 
 ## 1. Vấn đề nghiên cứu
 
@@ -66,6 +66,8 @@ Các nghiên cứu này làm yếu đi tuyên bố “thêm verifier, evidence-f
 
 Hai hướng internals làprior work cần biết để diễn giải citation claims. Chúng chưa được chọn làm architecture bắt buộc cho dự án bảo tàng. Agreement với human/NLI hoặcđiều khiển được citation token cũng chưa tự tạo chứng nhận causal faithfulness phổ quát.
 
+ContextCite bổ sung cách ước lượng ảnh hưởng của nguồn bằng phép bỏ các tổ hợp câu khỏi ngữ cảnh. FACTUM dự đoán khả năng nguồn trích hỗ trợ câu từ tín hiệu bên trong mô hình. Đối chiếu hai bài giúp tách ảnh hưởng của nguồn lên đầu ra khỏi việc nguồn có chứng minh được câu hay không. Các kết quả và giới hạn về nguồn trùng lặp, chi phí và cảnh báo nhầm nằm trong [ghi chú đợt 4](review-batches/2026-11-18-day3-round4/reading-notes.md).
+
 ## 7. Mâu thuẫn, ambiguity và metadata
 
 [MADAM-RAG/RAMDocs(P054)](https://arxiv.org/pdf/2504.13079) phân biệt câu hỏi mơ hồ có nhiều đáp án hợp lệ với thông tin sai và noise. Một tên người có thể chỉ nhiều người; câu trả lời có điều kiện hoặcphân biệt entity có thể phù hợp hơn việc tự động từ chối. Debate nhiều vòng cũng không luôn tăngaccuracy theoFig.3.
@@ -90,7 +92,7 @@ Mục tiêu hai paper có thể giữ như định hướng: một đóng góp d
 ## 9. Những việc ngăn kết luận “literature đã hoàn tất”
 
 1. Chưa hoàn tất search coverage theo protocol/primary sources và screening adjudication cho catalog 101. Không có formal search saturation hoặcPRISMA counts được xác nhận.
-2. Hai lead mới từ reference chaining: [ContextCite](https://proceedings.neurips.cc/paper_files/paper/2024/hash/adbea136219b64db96a9941e4249a857-Abstract-Conference.html) và[FACTUM](https://arxiv.org/abs/2601.05866). Đã kiểm metadata, chưa đọc toàn văn hoặcmerge và o catalog 101. Không dùng abstract performance làmextracted result. Đây lànearest work cần giải quyết trước khikhép causal-novelty gap.
+2. ContextCite và FACTUM đã được đọc có trọng điểm ở đợt 4. Hai đầu mối vẫn được theo dõi riêng trong khi chờ quyết định vòng toàn văn theo protocol. [Ghi chú đọc và vị trí trong nguồn](review-batches/2026-11-18-day3-round4/reading-notes.md).
 3. Cần căn chỉnh P022 read version với published chapter; review vẫn phân biệt publication evidence và version-specific results.
 4. ViCH candidate còn manual gate và exact-release/count/schema uncertainty. Chưa raw-row audit, chưa kết luận nhãn nào không tồn tại.
 5. Extraction và eligibility chưa được người thứhai kiểm độc lập; không gọi AI-assisted reading làindependent reviewer.
