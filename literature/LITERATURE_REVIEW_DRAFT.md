@@ -36,6 +36,8 @@ Hai bài cho thấy độ tương đồng chủ đề, đủ căn cứ và model
 
 [GRAB-RAG(P020)](https://aclanthology.org/2026.aacl-long.153.pdf) làm rõ điều này qua context thiếu và context bị sửa để hỗ trợ đáp án sai. Gate chặt hơn giảm trả lời ở misleading context nhưng có thể mất nhiều câu đúng ở context tốt. HwSA của bài là answer rate khi chính sách yêu cầu abstain, kể cả gold-correct overrides; không được gọi đó là claim-hallucination rate. Phạm vi là các mô hình nhỏ, English extractive QA và constructed swaps.
 
+NoMIRACL đánh giá liệu các đoạn cung cấp có đoạn liên quan hay không, với hai nhóm do người gán nhãn và 18 ngôn ngữ trong Table 1. DeclineCraft kiểm từ chối khi dữ kiện cần thiết nằm ngoài kho tài liệu ở một mốc thời gian, đồng thời chấm riêng lời phủ định tiền đề thiếu căn cứ. Hai bài giúp làm rõ đơn vị đánh giá cho câu hỏi thiếu nguồn trong miền bảo tàng. [Ghi chú đọc đợt 5](review-batches/2026-11-18-day3-round5/reading-notes.md).
+
 ## 4. Sinh với bằng chứng và kiểm từ ng ý
 
 [ReClaim(P046)](https://aclanthology.org/2025.findings-naacl.55.pdf) chọn reference trước rồi sinh claim, dùng constrained decoding để reference khớp nguồn cung cấp. Đây là tiền lệ cho evidence-first sentence generation. Nhưng citation membership không bảo đảm entailment. Table 2 còn cho citation support tăng trong khi answer recall giảm ở một số bộ dữ liệu: cùngLlama3-8B, ELI5CAS42,8→89,9 còn claimrecall20,5→17,8. Khả năng trả lời đủ nội dung cần được đọc cùng mức hỗ trợ của phần đã trả lời.
