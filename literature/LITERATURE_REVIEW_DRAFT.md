@@ -88,6 +88,8 @@ P032 cho thấy đổi Human/LLM labels có thể đổi lựa chọn citation k
 
 AmbigDocs kiểm trường hợp nhiều thực thể trùng tên và xem đáp án có đi với đúng thực thể không. ConflictBank kiểm riêng thông tin sai, khác biệt thời gian và khác biệt ngữ nghĩa. Khi đối chiếu tài liệu bảo tàng, cần xác định hiện vật, thuộc tính và mốc thời gian trước khi chấm hai nguồn là bất đồng. [Ghi chú đọc đợt 6 ngày 19/11](review-batches/2026-11-19-day4-round6/reading-notes.md).
 
+SituatedQA đánh giá đáp án ở đúng mốc được hỏi. TempReason tách bài toán tìm dữ kiện khỏi việc chọn trạng thái đúng mốc trong các cấu hình thí nghiệm. Với hồ sơ bảo tàng, có thể tạo cặp câu hỏi về cùng hiện vật và thuộc tính, chỉ đổi năm, rồi chấm riêng đáp án đúng mốc, đoạn nguồn hỗ trợ mốc và phản hồi khi thiếu căn cứ. Cần phân biệt mốc trong câu hỏi, thời gian hiệu lực của dữ kiện và ngày công bố hoặc cập nhật tài liệu. [Ghi chú đọc đợt 7 ngày 19/11](review-batches/2026-11-19-day4-round7/reading-notes.md).
+
 ## 8. Định hướng và novelty sau review
 
 | Ý tưởng đã bàn | Prior work trực tiếp | Vị trí hiện tại |
