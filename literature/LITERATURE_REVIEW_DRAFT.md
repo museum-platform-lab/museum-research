@@ -26,6 +26,8 @@ Public registry của [ứng viên HF liên quan](https://huggingface.co/dataset
 
 **Hệ quả đối với đóng góp dữ liệu:** số lượng QA và tên miền tiếng Việt chưa đủ tạo khác biệt. Một đóng góp có thể nằm ở đơn vị bằng chứng, tình huống đánh giá hoặc chất lượng kiểm nhãn; nhưng phải kiểm bộ dữ liệu hiện có và chứng minh nhu cầu chưa được đáp ứng. Bản review này chưa kiểm kê corpus riêng của dự án và chưa tạo dữ liệu benchmark mới.
 
+Bộ Amarna đã liên kết câu hỏi ảnh–văn bản về hiện vật với đoạn nguồn do người gán nhãn. MuSiQue-Full giữ nguyên câu hỏi nhiều bước và ghép hai ngữ cảnh đủ hoặc thiếu dữ kiện. Hai tiền lệ giúp phân biệt nhãn đoạn liên quan với nhãn đủ căn cứ để trả lời và nhãn nguồn hỗ trợ cho từng ý đã sinh. [Ghi chú đọc đợt 3 ngày 19/11](review-batches/2026-11-19-day4-round3/reading-notes.md).
+
 ## 3. Context liên quan khác context đủ để trả lời
 
 [Sufficient Context(P050)](https://proceedings.iclr.cc/paper_files/paper/2025/file/33dffa2e3d2ab74a783d1a8c292f66d9-Paper-Conference.pdf) đặt câu hỏi context có đủ thông tin để hình thành một đáp án plausible hay không, trước khi có candidate answer. Bài kết hợp sufficiency và self-rated confidence cho selective answering. Đây là prior work trực tiếp cho ý tưởng “đánh giá đủ bằng chứng rồi quyết định trả lời”. Tuy nhiên lợi ích không đồng đều: Fig. 4 cho Gemma27B/MuSiQue hai đường combined và confidence-only trùng nhau.
