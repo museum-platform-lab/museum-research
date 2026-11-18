@@ -86,6 +86,8 @@ ContextCite bổ sung cách ước lượng ảnh hưởng của nguồn bằng 
 
 P032 cho thấy đổi Human/LLM labels có thể đổi lựa chọn citation khi nội dung giữ nguyên. Đây làmetadata sensitivity trong cấu hình thử, không phải bằng chứng tên bảo tàng hoặcnhãn “nguồn chính thức” sẽ có cùng hiệu ứng. Không suy ra nên loại bỏ thông tin provenance có thật.
 
+AmbigDocs kiểm trường hợp nhiều thực thể trùng tên và xem đáp án có đi với đúng thực thể không. ConflictBank kiểm riêng thông tin sai, khác biệt thời gian và khác biệt ngữ nghĩa. Khi đối chiếu tài liệu bảo tàng, cần xác định hiện vật, thuộc tính và mốc thời gian trước khi chấm hai nguồn là bất đồng. [Ghi chú đọc đợt 6 ngày 19/11](review-batches/2026-11-19-day4-round6/reading-notes.md).
+
 ## 8. Định hướng và novelty sau review
 
 | Ý tưởng đã bàn | Prior work trực tiếp | Vị trí hiện tại |
