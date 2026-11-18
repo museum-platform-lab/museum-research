@@ -1,0 +1,46 @@
+[
+  {
+    "paper_id": "P050",
+    "source_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/33dffa2e3d2ab74a783d1a8c292f66d9-Paper-Conference.pdf",
+    "retrieved_at_utc": "2026-11-18T06:20:16.990758+00:00",
+    "http_status": 200,
+    "final_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/33dffa2e3d2ab74a783d1a8c292f66d9-Paper-Conference.pdf",
+    "truncated": false,
+    "bytes": 970808,
+    "sha256": "1d48ccb637e44694bf41fbef81d087c60aa2e38a31bb9641554b422c47de8f3e",
+    "file": "raw/P050.pdf"
+  },
+  {
+    "paper_id": "P046",
+    "source_url": "https://aclanthology.org/2025.findings-naacl.55.pdf",
+    "retrieved_at_utc": "2026-11-18T06:20:16.992286+00:00",
+    "http_status": 200,
+    "final_url": "https://aclanthology.org/2025.findings-naacl.55.pdf",
+    "truncated": false,
+    "bytes": 762269,
+    "sha256": "c0aca40fe947d19c7d5c2d1119098f28d2b727ef28167e8b8f576e4a34fb2ca6",
+    "file": "raw/P046.pdf"
+  },
+  {
+    "paper_id": "P018",
+    "source_url": "https://papers.nips.cc/paper_files/paper/2024/file/27245589131d17368cccdfa990cbf16e-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "retrieved_at_utc": "2026-11-18T06:20:16.993112+00:00",
+    "http_status": 200,
+    "final_url": "https://papers.nips.cc/paper_files/paper/2024/file/27245589131d17368cccdfa990cbf16e-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "truncated": false,
+    "bytes": 2568694,
+    "sha256": "fbb9f84db779e4b1faeaa9e4839f5ca20b5000fe6df69232c941c03cd286f077",
+    "file": "raw/P018.pdf"
+  },
+  {
+    "paper_id": "P084",
+    "source_url": "https://aclanthology.org/2023.emnlp-main.398.pdf",
+    "retrieved_at_utc": "2026-11-18T06:20:16.993858+00:00",
+    "http_status": 200,
+    "final_url": "https://aclanthology.org/2023.emnlp-main.398.pdf",
+    "truncated": false,
+    "bytes": 481920,
+    "sha256": "ae9868f07f0f7ffaae5346778f79b7827d9ec6b13b1e6aae4dff6b2ffc37a2e1",
+    "file": "raw/P084.pdf"
+  }
+]

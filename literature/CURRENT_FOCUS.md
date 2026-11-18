@@ -1,4 +1,4 @@
-# Trọng tâm nghiên cứu hiện tại — cập nhật17/11/2026
+# Trọng tâm nghiên cứu hiện tại — cập nhật18/11/2026
 
 **TEXT-FIRST, EVIDENCE-GROUNDED RAG CHO QA BẢO TÀNG.** Đây là điều chỉnh theo chỉ dẫn mới nhất của người dùng sau khi nhánh KG được mở rộng quá sớm.
 
@@ -10,6 +10,6 @@ V0.1 ledger63/30/8 giữ để truy vết. V0.2 KG trial70/11/12/8 là hồ sơ 
 
 **Ưu tiên công việc ngay lúc này: tiếp tục literature review — đọc toàn văn có phạm vi rõ, trích bằng chứng kèm section/table/page, đối chiếu nearest work và tổng hợp phản biện. Literature chưa hoàn tất; chưa chuyển sang tạo benchmark, xây corpus thí nghiệm hoặc chạy mô hình.** Đây là điều chỉnh theo nhắc lại của người dùng “literature chưa xong mà?” / “không đọc tiếp hả”.
 
-Active reading view: `review-batches/2026-11-17-rag-focus/rag_priority_view101.csv`. Đợt đọc mới nhất: `review-batches/2026-11-17-reading-round1/reading-synthesis.md`, cùng extraction4 và evidence-ledger22. Bốn bài là phạm vi đọc của lượt này, không phải bốn formal included studies. V0.1 ledger không đổi.
+Active reading view: `review-batches/2026-11-17-rag-focus/rag_priority_view101.csv`. Đợt đọc mới nhất: `review-batches/2026-11-18-day3/reading-synthesis.md`, cùng extraction4 và evidence-ledger20 cho Sufficient Context, ReClaim, RAGChecker và ALCE. Bảng `cross-paper-matrix8.csv` nối tám paper IDs của hai đợt chuẩn hóa; không phải tám formal included studies hoặc tám lần đọc đầu tiên. Đợt trước giữ tại `review-batches/2026-11-17-reading-round1/`. V0.1 ledger không đổi.
 
 `review-batches/2026-11-17-rag-focus/evaluation-design.md` và các experiment matrices chỉ là draft tham khảo, không phải bước thực hiện ưu tiên hiện tại. Chưa khóa protocol/search, eligibility, human validation, novelty hay chạy inference.
