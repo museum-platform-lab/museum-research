@@ -1,0 +1,33 @@
+{
+  "date_local": "2026-11-18",
+  "day": 3,
+  "round": 2,
+  "literature_complete": false,
+  "activity": "TARGETED_FULLTEXT_READING_CRITICAL_SYNTHESIS",
+  "papers": [
+    "P044",
+    "P032",
+    "P026"
+  ],
+  "extraction_rows": 3,
+  "evidence_rows": 18,
+  "cumulative_standardized_round_matrix_ids": 11,
+  "new_candidates": 0,
+  "candidate_catalog_count": 101,
+  "v01_relevance_counts": [
+    63,
+    30,
+    8
+  ],
+  "v01_labels_modified": false,
+  "formal_included_added": 0,
+  "independent_human_checks": 0,
+  "model_runs": 0,
+  "native_database_searches_added": 0,
+  "next_reading": [
+    "P022 mechanistic attribution (preprint status tocheck)",
+    "P047 internals-based answer attribution",
+    "VietnameseSACR/ViCH domain evidence comparison"
+  ],
+  "next_action": "Continue literature extraction anddomain comparison,notrunexperiments."
+}

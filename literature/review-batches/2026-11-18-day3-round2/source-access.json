@@ -1,0 +1,35 @@
+[
+  {
+    "paper_id": "P044",
+    "url": "https://mariaheuss.com/assets/correctness.pdf",
+    "accessed_at_utc": "2026-11-18T06:57:46.869830+00:00",
+    "http_status": 200,
+    "final_url": "https://mariaheuss.com/assets/correctness.pdf",
+    "truncated": false,
+    "bytes": 584111,
+    "sha256": "4ee0f6608c7696379ef28a4f3d757a8ecb416c21eb7b5e8ec1dc445cbd824d87",
+    "file": "raw/P044.pdf"
+  },
+  {
+    "paper_id": "P032",
+    "url": "https://aclanthology.org/2025.findings-acl.1087.pdf",
+    "accessed_at_utc": "2026-11-18T06:57:46.873607+00:00",
+    "http_status": 200,
+    "final_url": "https://aclanthology.org/2025.findings-acl.1087.pdf",
+    "truncated": false,
+    "bytes": 467241,
+    "sha256": "75ec33672a7ab34f32833e84412a6264efca503547d75b938af74f5bf3d5d35f",
+    "file": "raw/P032.pdf"
+  },
+  {
+    "paper_id": "P026",
+    "url": "https://aclanthology.org/2024.konvens-main.6.pdf",
+    "accessed_at_utc": "2026-11-18T06:57:46.874830+00:00",
+    "http_status": 200,
+    "final_url": "https://aclanthology.org/2024.konvens-main.6.pdf",
+    "truncated": false,
+    "bytes": 351935,
+    "sha256": "ec0917dbcd988fcca8619e75492957ab6c0aeca6b4e37a54d4f483169a2b106a",
+    "file": "raw/P026.pdf"
+  }
+]
