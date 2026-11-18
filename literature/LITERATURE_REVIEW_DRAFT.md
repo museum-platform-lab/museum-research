@@ -38,6 +38,8 @@ Hai bài cho thấy độ tương đồng chủ đề, đủ căn cứ và model
 
 NoMIRACL đánh giá liệu các đoạn cung cấp có đoạn liên quan hay không, với hai nhóm do người gán nhãn và 18 ngôn ngữ trong Table 1. DeclineCraft kiểm từ chối khi dữ kiện cần thiết nằm ngoài kho tài liệu ở một mốc thời gian, đồng thời chấm riêng lời phủ định tiền đề thiếu căn cứ. Hai bài giúp làm rõ đơn vị đánh giá cho câu hỏi thiếu nguồn trong miền bảo tàng. [Ghi chú đọc đợt 5](review-batches/2026-11-18-day3-round5/reading-notes.md).
 
+UAEval4RAG tách phản hồi phù hợp theo loại câu khỏi tỷ lệ từ chối. FaithEval cung cấp điều kiện riêng cho ngữ cảnh thiếu, bất nhất và phản thực. Hai bài bổ sung tiêu chí đọc dữ liệu cho các tình huống hỏi lại, báo bất đồng và xác minh phiên bản nguồn trong QA bảo tàng. [Ghi chú đọc ngày 19/11](review-batches/2026-11-19-day4/reading-notes.md).
+
 ## 4. Sinh với bằng chứng và kiểm từ ng ý
 
 [ReClaim(P046)](https://aclanthology.org/2025.findings-naacl.55.pdf) chọn reference trước rồi sinh claim, dùng constrained decoding để reference khớp nguồn cung cấp. Đây là tiền lệ cho evidence-first sentence generation. Nhưng citation membership không bảo đảm entailment. Table 2 còn cho citation support tăng trong khi answer recall giảm ở một số bộ dữ liệu: cùngLlama3-8B, ELI5CAS42,8→89,9 còn claimrecall20,5→17,8. Khả năng trả lời đủ nội dung cần được đọc cùng mức hỗ trợ của phần đã trả lời.
