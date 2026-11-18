@@ -64,6 +64,8 @@ Các nghiên cứu này làm yếu đi tuyên bố “thêm verifier, evidence-f
 
 FActScore đo tỷ lệ ý được kho tham chiếu hỗ trợ trên các lượt có trả lời. Attributed QA kiểm toàn bộ đáp án ngắn với đoạn được dẫn. Với dữ liệu bảo tàng, cần đọc song song mức hỗ trợ của từng ý, độ bao phủ những phần được hỏi và cách hệ thống xử lý khi nguồn bất đồng. [Ghi chú đọc đợt 2 ngày 19/11](review-batches/2026-11-19-day4-round2/reading-notes.md).
 
+RefChecker phân biệt ý được nguồn hỗ trợ, ý bị nguồn bác bỏ và ý chưa đủ căn cứ. RAGTruth đánh dấu vị trí lỗi trong đầu ra và phân biệt mâu thuẫn với thông tin thêm thiếu căn cứ. Cả hai là tiền lệ cho kiểm đáp án chi tiết. Đánh giá câu hỏi bảo tàng còn cần đo phần được hỏi nhưng bị bỏ sót và ghi rõ khi các nguồn bất đồng với nhau. [Ghi chú đọc đợt 5 ngày 19/11](review-batches/2026-11-19-day4-round5/reading-notes.md).
+
 ## 6. Citation hỗ trợ được claim chưa chứng minh model đã dùng nguồn
 
 [Correctness is not Faithfulness(P044)](https://mariaheuss.com/assets/correctness.pdf) phân biệt source support và causal dependence. Phép chèn span và o tài liệu khác cho thấy một vulnerability, nhưng con số57% là273/476 matched-span cases ở một điều kiện; không phải tỷ lệ mọi citation củaRAG. Bài thừa nhận một sốadversarial documents có thể trở thành cue và phép probe không quan sát đầy đủ internal process.
