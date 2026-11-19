@@ -84,6 +84,8 @@ ARES (P069) tách mức liên quan của ngữ cảnh, mức câu trả lời đ
 
 Self-RAG (P034) huấn luyện mô hình phát tín hiệu về nhu cầu truy xuất, mức liên quan, mức hỗ trợ và tính hữu ích trong lúc sinh. Một cấu hình chỉ dùng prompt nên ghi là lấy cảm hứng từ Self-RAG. RAGAS (P079) kiểm các mệnh đề dựa trên ngữ cảnh đã cung cấp. Với pilot bảo tàng, giữ điểm hỗ trợ chung và chấm thêm đoạn thực sự được dẫn có chứng minh từng dữ kiện hay không. Kiểm bộ chấm tự động trên mẫu tiếng Việt có nhãn người. [Ghi chú đọc đợt 17](review-batches/2026-11-19-day4-round17/reading-notes.md).
 
+Cultural Faithfulness in Tourism Chatbots (N003, preprint) lưu mã đoạn và nhãn độc lập rồi thống nhất các ca bất đồng trên một corpus văn hóa. Benchmark RGB (N004) tách ca nhiễu, thiếu căn cứ, cần ghép nguồn và phản thực. RGB còn cho thấy tỷ lệ từ chối nhạy với cách chấm. Với pilot, chấm theo ý nghĩa câu trả lời tiếng Việt, giữ cả nhãn độc lập lẫn nhãn đã thống nhất, và báo điểm riêng theo dạng bằng chứng. [Ghi chú đọc đợt 20](review-batches/2026-11-20-day5-round20/reading-notes.md).
+
 ## 6. Citation hỗ trợ được claim chưa chứng minh model đã dùng nguồn
 
 [Correctness is not Faithfulness(P044)](https://mariaheuss.com/assets/correctness.pdf) phân biệt source support và causal dependence. Phép chèn span và o tài liệu khác cho thấy một vulnerability, nhưng con số57% là273/476 matched-span cases ở một điều kiện; không phải tỷ lệ mọi citation củaRAG. Bài thừa nhận một sốadversarial documents có thể trở thành cue và phép probe không quan sát đầy đủ internal process.
