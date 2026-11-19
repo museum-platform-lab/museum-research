@@ -106,6 +106,8 @@ AmbigQA gán các đáp án vào từng cách hiểu bằng câu hỏi viết l�
 
 DRAGged into Conflicts (P049) chấm riêng việc phản hồi phù hợp với loại bất đồng, độ bao phủ đáp án và tính nhất quán với nguồn. When Evidence Conflicts (P053) dùng cùng hai đoạn theo hai thứ tự và thấy mô hình có thể đổi đáp án. Với hồ sơ bảo tàng, nên gán nhãn hành vi phù hợp trước, rồi đảo thứ tự và đo riêng lỗi đổi dữ kiện hoặc đổi cách phản hồi. Với bất đồng chưa phân xử được, chấm việc nêu từng cách diễn giải và dẫn đúng nguồn tương ứng. [Ghi chú đọc đợt 14](review-batches/2026-11-19-day4-round14/reading-notes.md).
 
+Astute RAG (P056) giữ nhãn nguồn khi nhóm các đoạn tương thích và tách các nhóm bất đồng. Với RAG bảo tàng, có thể thử bước gom đoạn theo dữ kiện trên hồ sơ đã xác minh. Chen và cộng sự (P057) cho thấy bộ hiệu chỉnh học từ cách thay thực thể có thể xử lý kém các câu hỏi có nhiều cách hiểu. Pilot cần báo riêng ca chỉnh có kiểm soát và ca bất đồng trong hồ sơ thật, đồng thời chấm lựa chọn trả lời theo nguồn, nêu bất đồng hay nói rõ phần thiếu. [Ghi chú đọc đợt 15](review-batches/2026-11-19-day4-round15/reading-notes.md).
+
 ## 8. Định hướng và novelty sau review
 
 | Ý tưởng đã bàn | Prior work trực tiếp | Vị trí hiện tại |
