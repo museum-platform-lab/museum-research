@@ -50,6 +50,8 @@ Lost in the Middle cho thấy chuyển đoạn chứa đáp án vào giữa ng�
 
 EntityQuestions cho thấy thứ hạng BM25 và DPR có thể đảo chiều giữa câu hỏi về thực thể và tập QA thông dụng. MIRACL cung cấp đối chứng BM25, mDPR và kết hợp trên 18 ngôn ngữ. Kết quả thay đổi theo ngôn ngữ, và bộ này chưa có tiếng Việt. Với hồ sơ bảo tàng, so ba cấu hình trên cùng tập đoạn và cùng số đoạn đầu ra, rồi tách kết quả cho câu hỏi dùng mã hoặc tên chuẩn và câu hỏi dùng tên gọi khác đã xác minh. Đo tỷ lệ tìm được nguồn chuẩn trước khi chấm đáp án và trích dẫn. [Ghi chú đọc đợt 9 ngày 19/11](review-batches/2026-11-19-day4-round9/reading-notes.md).
 
+Shishir và cộng sự (P055) so bước kiểm đủ bằng chứng với từ chối ngẫu nhiên ở cùng tỷ lệ trả lời. Zhong và cộng sự (N006) giữ nguyên đoạn truy xuất và bộ trích đáp án khi so có và không có ngưỡng từ chối, đồng thời ghi nhận khả năng phân biệt yếu của điểm bằng chứng trên SQuAD 2.0. Pilot bảo tàng cần báo cùng lúc tỷ lệ trả lời, tỷ lệ thiếu căn cứ trong các câu đã trả lời và tỷ lệ từ chối nhầm. Chọn ngưỡng trên tập phát triển của dự án. [Ghi chú đọc đợt 16](review-batches/2026-11-19-day4-round16/reading-notes.md).
+
 ## 4. Sinh với bằng chứng và kiểm từ ng ý
 
 [ReClaim(P046)](https://aclanthology.org/2025.findings-naacl.55.pdf) chọn reference trước rồi sinh claim, dùng constrained decoding để reference khớp nguồn cung cấp. Đây là tiền lệ cho evidence-first sentence generation. Nhưng citation membership không bảo đảm entailment. Table 2 còn cho citation support tăng trong khi answer recall giảm ở một số bộ dữ liệu: cùngLlama3-8B, ELI5CAS42,8→89,9 còn claimrecall20,5→17,8. Khả năng trả lời đủ nội dung cần được đọc cùng mức hỗ trợ của phần đã trả lời.
