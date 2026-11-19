@@ -72,6 +72,8 @@ FActScore đo tỷ lệ ý được kho tham chiếu hỗ trợ trên các lư�
 
 RefChecker phân biệt ý được nguồn hỗ trợ, ý bị nguồn bác bỏ và ý chưa đủ căn cứ. RAGTruth đánh dấu vị trí lỗi trong đầu ra và phân biệt mâu thuẫn với thông tin thêm thiếu căn cứ. Cả hai là tiền lệ cho kiểm đáp án chi tiết. Đánh giá câu hỏi bảo tàng còn cần đo phần được hỏi nhưng bị bỏ sót và ghi rõ khi các nguồn bất đồng với nhau. [Ghi chú đọc đợt 5 ngày 19/11](review-batches/2026-11-19-day4-round5/reading-notes.md).
 
+ARES (P069) tách mức liên quan của ngữ cảnh, mức câu trả lời được ngữ cảnh hỗ trợ và mức đúng trọng tâm. Bài dùng nhãn người để hiệu chỉnh ước lượng điểm tổng hợp của bộ chấm tự động. Với RAG bảo tàng tiếng Việt, cần kiểm bộ chấm trên nhãn người trong miền và giữ phép chấm nguồn ở cấp từng dữ kiện. [Ghi chú đọc đợt 12](review-batches/2026-11-19-day4-round12/reading-notes.md).
+
 ## 6. Citation hỗ trợ được claim chưa chứng minh model đã dùng nguồn
 
 [Correctness is not Faithfulness(P044)](https://mariaheuss.com/assets/correctness.pdf) phân biệt source support và causal dependence. Phép chèn span và o tài liệu khác cho thấy một vulnerability, nhưng con số57% là273/476 matched-span cases ở một điều kiện; không phải tỷ lệ mọi citation củaRAG. Bài thừa nhận một sốadversarial documents có thể trở thành cue và phép probe không quan sát đầy đủ internal process.
@@ -85,6 +87,8 @@ RefChecker phân biệt ý được nguồn hỗ trợ, ý bị nguồn bác b�
 Hai hướng internals làprior work cần biết để diễn giải citation claims. Chúng chưa được chọn làm architecture bắt buộc cho dự án bảo tàng. Agreement với human/NLI hoặcđiều khiển được citation token cũng chưa tự tạo chứng nhận causal faithfulness phổ quát.
 
 ContextCite bổ sung cách ước lượng ảnh hưởng của nguồn bằng phép bỏ các tổ hợp câu khỏi ngữ cảnh. FACTUM dự đoán khả năng nguồn trích hỗ trợ câu từ tín hiệu bên trong mô hình. Đối chiếu hai bài giúp tách ảnh hưởng của nguồn lên đầu ra khỏi việc nguồn có chứng minh được câu hay không. Các kết quả và giới hạn về nguồn trùng lặp, chi phí và cảnh báo nhầm nằm trong [ghi chú đợt 4](review-batches/2026-11-18-day3-round4/reading-notes.md).
+
+Cited but Unused (P021, bản arXiv) thay một giá trị trong các đoạn nguồn rồi hỏi lại để đo độ nhạy của câu trả lời. Phép thử bổ sung cho việc kiểm nguồn gốc có hỗ trợ câu trả lời hay không. Khi áp dụng vào pilot, cần ghi cả các ca không xác định và xem lại cách thay giá trị trước khi suy luận về nguồn gốc dữ kiện. [Ghi chú đọc đợt 12](review-batches/2026-11-19-day4-round12/reading-notes.md).
 
 ## 7. Mâu thuẫn, ambiguity và metadata
 
