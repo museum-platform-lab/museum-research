@@ -104,6 +104,8 @@ SituatedQA đánh giá đáp án ở đúng mốc được hỏi. TempReason tá
 
 AmbigQA gán các đáp án vào từng cách hiểu bằng câu hỏi viết lại. ASQA dùng một tập con từ AmbigQA để chấm câu trả lời dài có bao phủ được từng cách hiểu hay không. Với RAG bảo tàng, mỗi cách hiểu cần mã hiện vật và đoạn nguồn riêng. Khi hồ sơ phân biệt được hai hiện vật, có thể thử nêu cả hai khả năng hoặc hỏi khách một chi tiết phân biệt. Khi hiện vật đã rõ nhưng nguồn thiếu dữ kiện, câu trả lời cần nêu phần thiếu. Chấm riêng đáp án, đoạn trích và khả năng phân biệt của câu hỏi làm rõ. [Ghi chú đọc đợt 10 ngày 19/11](review-batches/2026-11-19-day4-round10/reading-notes.md).
 
+DRAGged into Conflicts (P049) chấm riêng việc phản hồi phù hợp với loại bất đồng, độ bao phủ đáp án và tính nhất quán với nguồn. When Evidence Conflicts (P053) dùng cùng hai đoạn theo hai thứ tự và thấy mô hình có thể đổi đáp án. Với hồ sơ bảo tàng, nên gán nhãn hành vi phù hợp trước, rồi đảo thứ tự và đo riêng lỗi đổi dữ kiện hoặc đổi cách phản hồi. Với bất đồng chưa phân xử được, chấm việc nêu từng cách diễn giải và dẫn đúng nguồn tương ứng. [Ghi chú đọc đợt 14](review-batches/2026-11-19-day4-round14/reading-notes.md).
+
 ## 8. Định hướng và novelty sau review
 
 | Ý tưởng đã bàn | Prior work trực tiếp | Vị trí hiện tại |
