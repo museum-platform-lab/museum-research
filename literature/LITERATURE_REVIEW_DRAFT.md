@@ -137,6 +137,8 @@ Mục tiêu hai paper có thể giữ như định hướng: một đóng góp d
 
 EPRAG (P052) là đối chiếu gần cho việc tách nhận diện trạng thái bằng chứng khỏi lựa chọn hỏi lại, trả lời hoặc từ chối. Đã kiểm tóm tắt và kho tái lập công khai, còn toàn văn P052 và SC-RAG (P033) đang chờ truy cập. Hai mục này cần đối chiếu tiếp trước khi kết luận về khoảng trống nghiên cứu. [Ghi chú truy cập đợt 21](review-batches/2026-11-20-day5-round21/reading-notes.md).
 
+Kiểm mã và CSV công khai của EPRAG (P052) xác nhận tiền lệ tách trạng thái bằng chứng và quyết định phản hồi. Trên 720 ca BIRD công khai, 697 ca khớp hành động chuẩn và 600 ca khớp trạng thái chuẩn. Trong 23 lỗi hành động, 22 ca hỏi lại khi nhãn chuẩn yêu cầu hành động khác. Pilot bảo tàng cần kiểm riêng câu hỏi làm rõ có giúp xác định đúng hồ sơ và liệu hồ sơ đó đã đủ căn cứ để trả lời. Kết quả đợt này tính từ dự đoán đã lưu. [Ghi chú đọc đợt 22](review-batches/2026-11-20-day5-round22/reading-notes.md).
+
 ## 9. Những việc ngăn kết luận “literature đã hoàn tất”
 
 1. Chưa hoàn tất search coverage theo protocol/primary sources và screening adjudication cho catalog 101. Không có formal search saturation hoặcPRISMA counts được xác nhận.
