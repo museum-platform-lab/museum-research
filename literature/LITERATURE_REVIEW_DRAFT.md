@@ -60,6 +60,8 @@ EntityQuestions cho thấy thứ hạng BM25 và DPR có thể đảo chiều gi
 
 Các nghiên cứu này làm yếu đi tuyên bố “thêm verifier, evidence-first hoặcfine-tuning citation là phương pháp mới”. Chúng còn cho thấy answer completeness, source support và refusal cost phải được đọc cùng nhau.
 
+CRAG (P085) dùng điểm liên quan để quyết định lọc đoạn đã tìm hay tìm thêm. RARR (P078) kiểm và sửa bản nháp theo nguồn, đồng thời đo mức giữ lại ý định ban đầu. Với hồ sơ bảo tàng, có thể so RAG một lượt, tìm thêm trong kho đã duyệt và sửa theo từng dữ kiện. Chấm riêng đoạn mới tìm được, dữ kiện sau sửa, ý đúng bị mất và phản hồi khi nguồn vẫn thiếu. [Ghi chú đọc đợt 13](review-batches/2026-11-19-day4-round13/reading-notes.md).
+
 ## 5. Các evaluator và những tên metric dễ nhầm
 
 [ALCE(P084)](https://aclanthology.org/2023.emnlp-main.398.pdf) phân biệt fluency, correctness và citation quality. Citation recall hỏi mỗi output statement có được joint cited evidence hỗ trợ không. Citation precision loại nguồn không liên quan và không bắt mọi citation riêng lẻ chứng minh toàn bộ câu. Đây là nền tảng để tránh loại nhầm trường hợp cần kết hợp nhiều nguồn. NLI vẫn có hạn chế với partial support.
