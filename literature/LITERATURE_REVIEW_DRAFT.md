@@ -94,6 +94,8 @@ AmbigDocs kiểm trường hợp nhiều thực thể trùng tên và xem đáp 
 
 SituatedQA đánh giá đáp án ở đúng mốc được hỏi. TempReason tách bài toán tìm dữ kiện khỏi việc chọn trạng thái đúng mốc trong các cấu hình thí nghiệm. Với hồ sơ bảo tàng, có thể tạo cặp câu hỏi về cùng hiện vật và thuộc tính, chỉ đổi năm, rồi chấm riêng đáp án đúng mốc, đoạn nguồn hỗ trợ mốc và phản hồi khi thiếu căn cứ. Cần phân biệt mốc trong câu hỏi, thời gian hiệu lực của dữ kiện và ngày công bố hoặc cập nhật tài liệu. [Ghi chú đọc đợt 7 ngày 19/11](review-batches/2026-11-19-day4-round7/reading-notes.md).
 
+AmbigQA gán các đáp án vào từng cách hiểu bằng câu hỏi viết lại. ASQA dùng một tập con từ AmbigQA để chấm câu trả lời dài có bao phủ được từng cách hiểu hay không. Với RAG bảo tàng, mỗi cách hiểu cần mã hiện vật và đoạn nguồn riêng. Khi hồ sơ phân biệt được hai hiện vật, có thể thử nêu cả hai khả năng hoặc hỏi khách một chi tiết phân biệt. Khi hiện vật đã rõ nhưng nguồn thiếu dữ kiện, câu trả lời cần nêu phần thiếu. Chấm riêng đáp án, đoạn trích và khả năng phân biệt của câu hỏi làm rõ. [Ghi chú đọc đợt 10 ngày 19/11](review-batches/2026-11-19-day4-round10/reading-notes.md).
+
 ## 8. Định hướng và novelty sau review
 
 | Ý tưởng đã bàn | Prior work trực tiếp | Vị trí hiện tại |
