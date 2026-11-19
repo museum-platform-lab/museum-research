@@ -102,6 +102,8 @@ ContextCite bổ sung cách ước lượng ảnh hưởng của nguồn bằng 
 
 Cited but Unused (P021, bản arXiv) thay một giá trị trong các đoạn nguồn rồi hỏi lại để đo độ nhạy của câu trả lời. Phép thử bổ sung cho việc kiểm nguồn gốc có hỗ trợ câu trả lời hay không. Khi áp dụng vào pilot, cần ghi cả các ca không xác định và xem lại cách thay giá trị trước khi suy luận về nguồn gốc dữ kiện. [Ghi chú đọc đợt 12](review-batches/2026-11-19-day4-round12/reading-notes.md).
 
+Mody (P027, preprint) cho thấy điểm trích dẫn theo bản rút gọn và theo đoạn gốc tìm lại có thể chênh lệch lớn. Phép đo phụ thuộc vào khả năng tìm lại đoạn và bộ chấm tự động. Nếu pilot dùng bản tóm tắt để tìm hoặc sinh đáp án, cần giữ liên kết về đoạn hồ sơ gốc và chấm độ hỗ trợ ở đoạn đó. [Ghi chú đọc đợt 21](review-batches/2026-11-20-day5-round21/reading-notes.md).
+
 ## 7. Mâu thuẫn, ambiguity và metadata
 
 [MADAM-RAG/RAMDocs(P054)](https://arxiv.org/pdf/2504.13079) phân biệt câu hỏi mơ hồ có nhiều đáp án hợp lệ với thông tin sai và noise. Một tên người có thể chỉ nhiều người; câu trả lời có điều kiện hoặcphân biệt entity có thể phù hợp hơn việc tự động từ chối. Debate nhiều vòng cũng không luôn tăngaccuracy theoFig.3.
@@ -132,6 +134,8 @@ Astute RAG (P056) giữ nhãn nguồn khi nhóm các đoạn tương thích và 
 Khả năng đóng góp dữ liệu/đánh giá cần tiếp tục kiểm ở những đơn vị bằng chứng và tình huống màbenchmark hiện có chưa đáp ứng: chẳng hạn support của từ ng ý, câu thiếu căn cứ, bằng chứng bất đồng hoặcgánh nặng từ chối nhầm. Đây làcác giả thuyết còn mở, không phải xác nhận bộhiện có đều thiếu nhãn.
 
 Mục tiêu hai paper có thể giữ như định hướng: một đóng góp dữ liệu/đánh giá có giá trị độc lập, và một đóng góp phương pháp được chọn sau khi có căn cứ vềlỗi cụ thể. Hiện chưa có đủ bằng chứng đểcam kết cảhai, chốt architecture, hoặcđặt KG thànhpaper 2. Thêm một block cósẵn hoặcđổi ngôn ngữ không tự chứng minh novelty.
+
+EPRAG (P052) là đối chiếu gần cho việc tách nhận diện trạng thái bằng chứng khỏi lựa chọn hỏi lại, trả lời hoặc từ chối. Đã kiểm tóm tắt và kho tái lập công khai, còn toàn văn P052 và SC-RAG (P033) đang chờ truy cập. Hai mục này cần đối chiếu tiếp trước khi kết luận về khoảng trống nghiên cứu. [Ghi chú truy cập đợt 21](review-batches/2026-11-20-day5-round21/reading-notes.md).
 
 ## 9. Những việc ngăn kết luận “literature đã hoàn tất”
 
