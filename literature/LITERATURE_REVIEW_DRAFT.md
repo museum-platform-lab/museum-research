@@ -78,6 +78,8 @@ RefChecker phân biệt ý được nguồn hỗ trợ, ý bị nguồn bác b�
 
 ARES (P069) tách mức liên quan của ngữ cảnh, mức câu trả lời được ngữ cảnh hỗ trợ và mức đúng trọng tâm. Bài dùng nhãn người để hiệu chỉnh ước lượng điểm tổng hợp của bộ chấm tự động. Với RAG bảo tàng tiếng Việt, cần kiểm bộ chấm trên nhãn người trong miền và giữ phép chấm nguồn ở cấp từng dữ kiện. [Ghi chú đọc đợt 12](review-batches/2026-11-19-day4-round12/reading-notes.md).
 
+Self-RAG (P034) huấn luyện mô hình phát tín hiệu về nhu cầu truy xuất, mức liên quan, mức hỗ trợ và tính hữu ích trong lúc sinh. Một cấu hình chỉ dùng prompt nên ghi là lấy cảm hứng từ Self-RAG. RAGAS (P079) kiểm các mệnh đề dựa trên ngữ cảnh đã cung cấp. Với pilot bảo tàng, giữ điểm hỗ trợ chung và chấm thêm đoạn thực sự được dẫn có chứng minh từng dữ kiện hay không. Kiểm bộ chấm tự động trên mẫu tiếng Việt có nhãn người. [Ghi chú đọc đợt 17](review-batches/2026-11-19-day4-round17/reading-notes.md).
+
 ## 6. Citation hỗ trợ được claim chưa chứng minh model đã dùng nguồn
 
 [Correctness is not Faithfulness(P044)](https://mariaheuss.com/assets/correctness.pdf) phân biệt source support và causal dependence. Phép chèn span và o tài liệu khác cho thấy một vulnerability, nhưng con số57% là273/476 matched-span cases ở một điều kiện; không phải tỷ lệ mọi citation củaRAG. Bài thừa nhận một sốadversarial documents có thể trở thành cue và phép probe không quan sát đầy đủ internal process.
