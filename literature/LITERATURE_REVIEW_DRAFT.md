@@ -52,6 +52,8 @@ EntityQuestions cho thấy thứ hạng BM25 và DPR có thể đảo chiều gi
 
 Shishir và cộng sự (P055) so bước kiểm đủ bằng chứng với từ chối ngẫu nhiên ở cùng tỷ lệ trả lời. Zhong và cộng sự (N006) giữ nguyên đoạn truy xuất và bộ trích đáp án khi so có và không có ngưỡng từ chối, đồng thời ghi nhận khả năng phân biệt yếu của điểm bằng chứng trên SQuAD 2.0. Pilot bảo tàng cần báo cùng lúc tỷ lệ trả lời, tỷ lệ thiếu căn cứ trong các câu đã trả lời và tỷ lệ từ chối nhầm. Chọn ngưỡng trên tập phát triển của dự án. [Ghi chú đọc đợt 16](review-batches/2026-11-19-day4-round16/reading-notes.md).
 
+Patel (N005, preprint) cho thấy tỷ lệ đánh giá nhầm nguồn thiếu thành đủ thay đổi mạnh theo thành phần tập hiệu chỉnh. Ca thiếu một phần và ca trùng từ khóa khó hơn nhiễu ngẫu nhiên. Antal và Buza (P068) so việc đưa sẵn tài liệu chuẩn với truy xuất năm tài liệu, trên tập chỉ gồm câu có đáp án. Với pilot bảo tàng, giữ ngân sách ngữ cảnh tương đương khi đo lỗi truy xuất và báo riêng các dạng thiếu bằng chứng. Đối chiếu điểm tự động với nhãn người. [Ghi chú đọc đợt 18](review-batches/2026-11-19-day4-round18/reading-notes.md).
+
 ## 4. Sinh với bằng chứng và kiểm từ ng ý
 
 [ReClaim(P046)](https://aclanthology.org/2025.findings-naacl.55.pdf) chọn reference trước rồi sinh claim, dùng constrained decoding để reference khớp nguồn cung cấp. Đây là tiền lệ cho evidence-first sentence generation. Nhưng citation membership không bảo đảm entailment. Table 2 còn cho citation support tăng trong khi answer recall giảm ở một số bộ dữ liệu: cùngLlama3-8B, ELI5CAS42,8→89,9 còn claimrecall20,5→17,8. Khả năng trả lời đủ nội dung cần được đọc cùng mức hỗ trợ của phần đã trả lời.
