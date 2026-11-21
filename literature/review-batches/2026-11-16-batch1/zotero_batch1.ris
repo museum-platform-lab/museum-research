@@ -1,0 +1,1403 @@
+TY  - GEN
+ID  - P001
+TI  - MuseRAG++: a deep retrieval-augmented generation framework for semantic interaction and multi-modal reasoning in virtual museums
+AU  - Hu, Yifan
+PY  - 2026
+DO  - 10.1038/s41598-026-55700-9
+UR  - https://www.nature.com/articles/s41598-026-55700-9
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P002
+TI  - ATLAS: Harnessing retrieval-augmented generation (RAG)
+AU  - James Smithies
+AU  - Glen Berman
+AU  - Karaitiana Taiuru
+AU  - Martin Spychal
+AU  - John Moore
+PY  - 2026
+DO  - 10.1017/cfc.2026.10029
+UR  - https://www.cambridge.org/core/journals/cambridge-forum-on-ai-culture-and-society/article/atlas-harnessing-retrievalaugmented-generation-rag/FBDE8D88E2D840BC9BD290F60B1E71E7
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P003
+TI  - A Tool-Augmented AI Agent for Grounded Access to European Cultural Heritage
+AU  - Pierluca Landolfi
+AU  - Fabio Porcelli
+AU  - Simone Cioffi
+AU  - Laura Di Cuffa
+AU  - Maria Volpe
+AU  - Emanuel Di Nardo
+AU  - Angelo Ciaramella
+PY  - 2026
+DO  - 10.1007/978-3-032-39385-2_3
+UR  - https://ricerca.uniparthenope.it/handle/11367/168498
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P004
+TI  - Context or Retrieval? Evaluating RAG Methods for Art and Museum QA System
+AU  - Samuel Ramos-Varela
+AU  - Jaime Bellver-Soler
+AU  - Marcos Estecha-Garitagoitia
+AU  - Luis Fernando D’Haro
+PY  - 2025
+UR  - https://aclanthology.org/2025.iwsds-1.10/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P005
+TI  - CultureBot: A Framework for Retrieval-Augmented Exploration of Cultural Heritage Data
+AU  - Karampinis, Vasileios
+AU  - Vlachos, Angelos
+AU  - Filandrianos, Giorgos
+AU  - Lymperaiou, Maria
+AU  - Tzouveli, Paraskevi
+AU  - Zerva, Chrysoula
+AU  - Stamou, Giorgos
+PY  - 2026
+UR  - https://arxiv.org/abs/2610.16435
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P006
+TI  - Explainable semantic question answering system for cultural heritage: a framework based on a dual-layer knowledge graph and self-RAG-inspired adaptive retrieval—a case study of Liao Dynasty tomb mural costume
+AU  - Fan, Yanni
+AU  - Wang, Jiajun
+AU  - Zhang, Liuyun
+AU  - Huang, Quelong
+AU  - Xu, Sili
+AU  - Hu, Pengpeng
+PY  - 2026
+DO  - 10.1038/s41598-026-63351-z
+UR  - https://www.nature.com/articles/s41598-026-63351-z
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P007
+TI  - An Intelligent Docent System with a Small Large Language Model (sLLM) Based on Retrieval-Augmented Generation (RAG)
+AU  - Jung, Taemoon
+AU  - Joe, Inwhee
+PY  - 2025
+DO  - 10.3390/app15179398
+UR  - https://www.mdpi.com/2076-3417/15/17/9398
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P008
+TI  - Vichat: summary-augmented contextual retrieval for Vietnamese intangible cultural heritage question answering
+AU  - Minh Tan Tran
+AU  - Quoc Khang Tran
+AU  - Thai Nghe Nguyen
+AU  - Thanh Nghi Do
+PY  - 2026
+DO  - 10.22144/ctujoisd.2026.056
+UR  - https://ctujs.ctu.edu.vn/index.php/ctujs/article/view/3152
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P009
+TI  - HeriKGQA: Grounded Knowledge-Graph Question Answering over Cultural Heritage Sensor Data
+AU  - Kong, Lingxiao
+AU  - Arampatzakis, Vasileios
+AU  - Sevetlidis, Vasileios
+AU  - Pavlidis, George
+AU  - Boukhers, Zeyd
+PY  - 2026
+UR  - https://arxiv.org/abs/2611.15904
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P010
+TI  - When the Machine Speaks for the Collection: Deployed Generative AI in Museums and Art Galleries—A Scoping Review
+AU  - Kamińska, Anna Małgorzata
+PY  - 2026
+DO  - 10.3390/fclam1010003
+UR  - https://www.mdpi.com/3043-0550/1/1/3
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P011
+TI  - Investigating the role of conversational agents in augmented cultural heritage tours
+AU  - Loretti, Andrea
+AU  - Bernasconi, Valentine
+AU  - Cascarano, Pasquale
+AU  - Troffei, Alessio
+AU  - Lai, Mengting
+AU  - Vitale, Luca
+AU  - Bortolotti, Andrea
+AU  - Marfia, Gustavo
+PY  - 2026
+DO  - 10.1186/s40537-026-01418-4
+UR  - https://link.springer.com/article/10.1186/s40537-026-01418-4
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P012
+TI  - A Dataset for Multimodal Question Answering in the Cultural Heritage Domain
+AU  - Shurong Sheng
+AU  - Luc Van Gool
+AU  - Marie Francine Moens
+PY  - 2016
+UR  - https://aclanthology.org/W16-4003/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P013
+TI  - Understanding Museum Exhibits using Vision-Language Reasoning
+AU  - Balauca, Ada-Astrid
+AU  - Garai, Sanjana
+AU  - Balauca, Stefan
+AU  - Shetty, Rasesh Udayakumar
+AU  - Agrawal, Naitik
+AU  - Shah, Dhwanil Subhashbhai
+AU  - Fu, Yuqian
+AU  - Wang, Xi
+AU  - Toutanova, Kristina
+AU  - Paudel, Danda Pani
+AU  - Van Gool, Luc
+PY  - 2024
+UR  - https://arxiv.org/abs/2412.01370
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P014
+TI  - VISCOUNTH: A Large-scale Multilingual Visual Question Answering Dataset for Cultural Heritage
+AU  - Federico Becattini
+AU  - Pietro Bongini
+AU  - Luana Bulla
+AU  - Alberto Del Bimbo
+AU  - Ludovica Marinucci
+AU  - Misael Mongiovì
+AU  - Valentina Presutti
+PY  - 2023
+DO  - 10.1145/3590773
+UR  - https://iris.cnr.it/handle/20.500.14243/486489
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P015
+TI  - Increasing the Difficulty of Automatically Generated Questions via Reinforcement Learning with Synthetic Preference for Cost-Effective Cultural Heritage Dataset Generation
+AU  - William Thorne
+AU  - Ambrose Robinson
+AU  - Bohua Peng
+AU  - Chenghua Lin
+AU  - Diana Maynard
+PY  - 2024
+DO  - 10.18653/v1/2024.nlp4dh-1.43
+UR  - https://aclanthology.org/2024.nlp4dh-1.43/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P016
+TI  - ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset
+AU  - Duarte, Luciano
+AU  - Ovcharenko, Olga
+AU  - Schelter, Sebastian
+PY  - 2026
+UR  - https://arxiv.org/abs/2606.09648
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P017
+TI  - Do LLMs Know When Evidence is Insufficient? An Evidence Sufficiency Benchmark for Answer-Abstention Calibration in Retrieval-Augmented Generation
+AU  - Hantian Zhang
+AU  - Wentai Wu
+PY  - 2026
+DO  - 10.32604/cmc.2026.086343
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221826007526
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P018
+TI  - RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
+AU  - Ru, Dongyu
+AU  - Qiu, Lin
+AU  - Hu, Xiangkun
+AU  - Zhang, Tianhang
+AU  - Shi, Peng
+AU  - Chang, Shuaichen
+AU  - Jiayang, Cheng
+AU  - Wang, Cunxiang
+AU  - Sun, Shichao
+AU  - Li, Huanyu
+AU  - Zhang, Zizhao
+AU  - Wang, Binjie
+AU  - Jiang, Jiarong
+AU  - He, Tong
+AU  - Wang, Zhiguo
+AU  - Liu, Pengfei
+AU  - Zhang, Yue
+AU  - Zhang, Zheng
+PY  - 2024
+DO  - 10.52202/079017-0692
+UR  - https://proceedings.neurips.cc/paper_files/paper/2024/hash/27245589131d17368cccdfa990cbf16e-Abstract.html
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P019
+TI  - RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment
+AU  - Zhuoran Jin
+AU  - Hongbang Yuan
+AU  - Tianyi Men
+AU  - Pengfei Cao (鹏飞 曹)
+AU  - Yubo Chen
+AU  - Jiexin Xu
+AU  - Huaijun Li
+AU  - Xiaojian Jiang
+AU  - Kang Liu
+AU  - Jun Zhao
+PY  - 2025
+DO  - 10.18653/v1/2025.findings-acl.877
+UR  - https://aclanthology.org/2025.findings-acl.877/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P020
+TI  - Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models
+AU  - Yohanes Andre Setiawan
+PY  - 2026
+DO  - 10.18653/2026.aacl-long.153
+UR  - https://aclanthology.org/2026.aacl-long.153/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P021
+TI  - Cited but Unused: Parametric Provenance in Retrieval-Augmented Generation
+AU  - Abbas, Tanzeel
+AU  - Zia, Tehseen
+AU  - Windridge, David
+PY  - 2026
+UR  - https://arxiv.org/abs/2611.17161
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P022
+TI  - How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation
+AU  - van Dort, Ian
+AU  - Heuss, Maria
+PY  - 2026
+DO  - 10.1007/978-3-032-21324-2_35
+UR  - https://arxiv.org/abs/2606.28358
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P023
+TI  - Relevance Is Not Sufficient Evidence: Detecting Evidence Gaps Before Generation in RAG
+AU  - Chen, Suting
+AU  - Hua, Peichun
+AU  - Xiao, Yunming
+PY  - 2026
+UR  - https://arxiv.org/abs/2609.37469
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P024
+TI  - A Systematic Literature Review of Retrieval-Augmented Generation: Techniques, Metrics, and Challenges
+AU  - Brown, Andrew
+AU  - Roman, Muhammad
+AU  - Devereux, Barry
+PY  - 2025
+DO  - 10.3390/bdcc9120320
+UR  - https://www.mdpi.com/2504-2289/9/12/320
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P025
+TI  - Evaluating Retrieval Augmented Generation: A Comprehensive Review of Evaluation Dimensions, Question Types, and Application
+AU  - Knollmeyer, Simon
+AU  - Caymazer, Oğuz
+AU  - Koval, Leonid
+AU  - Akmal, Muhammad Uzair
+AU  - Asif, Saara
+AU  - Mathias, Selvine G.
+AU  - Großmann, Daniel
+PY  - 2026
+DO  - 10.1007/s42979-026-05134-x
+UR  - https://link.springer.com/article/10.1007/s42979-026-05134-x
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P026
+TI  - Evaluating and Fine-Tuning Retrieval-Augmented Language Models to Generate Text with Accurate Citations
+AU  - Vinzent Penzkofer
+AU  - Timo Baumann
+PY  - 2024
+UR  - https://aclanthology.org/2024.konvens-main.6/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P027
+TI  - The Attribution-Compression Frontier in Retrieval-Augmented Generation
+AU  - Mody, Deepanshu
+PY  - 2026
+UR  - https://arxiv.org/abs/2609.14245
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P028
+TI  - Retrieval-augmented generation for natural language processing: a survey
+AU  - Wu, Shangyu
+AU  - Xiong, Ying
+AU  - Cui, Yufei
+AU  - Wu, Haolun
+AU  - Chen, Can
+AU  - Yuan, Ye
+AU  - Huang, Lianming
+AU  - Liu, Xue
+AU  - Kuo, Tei-Wei
+AU  - Guan, Nan
+AU  - Xue, Chun Jason
+PY  - 2026
+DO  - 10.1007/s10462-026-11605-7
+UR  - https://link.springer.com/article/10.1007/s10462-026-11605-7
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P029
+TI  - Retrieval Augmented Generation for Large Language Models: A Methodological Survey
+AU  - Rekkas, Vasileios P.
+AU  - Vretos, Nicholas
+PY  - 2026
+DO  - 10.3390/technologies14110715
+UR  - https://www.mdpi.com/2227-7080/14/11/715
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P030
+TI  - GuidelineGuard: An Agentic Retrieval-Augmented Generation Framework with Sentence-Level Citation Auditing for Guideline-Grounded Question Answering
+AU  - Poor, Farida Far
+PY  - 2026
+DO  - 10.3390/computation14090210
+UR  - https://www.mdpi.com/2079-3197/14/9/210
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P031
+TI  - A Review of Retrieval-Augmented Generation Technology
+AU  - Jiang, Peng
+AU  - Cai, Xiaodong
+PY  - 2026
+DO  - 10.3390/sym18091431
+UR  - https://www.mdpi.com/2073-8994/18/9/1431
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P032
+TI  - Evaluation of Attribution Bias in Generator-Aware Retrieval-Augmented Large Language Models
+AU  - Amin Abolghasemi
+AU  - Leif Azzopardi
+AU  - Seyyed Hadi Hashemi
+AU  - Maarten de Rijke
+AU  - Suzan Verberne
+PY  - 2025
+DO  - 10.18653/v1/2025.findings-acl.1087
+UR  - https://aclanthology.org/2025.findings-acl.1087/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P033
+TI  - Towards evidence-aware retrieval-augmented generation via self-corrective chain-of-thought
+AU  - Yining Li
+AU  - Wenjun Ke
+AU  - Jiajun Liu
+AU  - Peng Wang
+AU  - Jianghan Liu
+AU  - Yao He
+PY  - 2026
+DO  - 10.1016/j.ipm.2025.104369
+UR  - https://www.sciencedirect.com/science/article/pii/S0306457325003103
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P034
+TI  - Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
+AU  - Asai, Akari
+AU  - Wu, Zeqiu
+AU  - Wang, Yizhong
+AU  - Sil, Avi
+AU  - Hajishirzi, Hannaneh 
+PY  - 2024
+UR  - https://proceedings.iclr.cc/paper_files/paper/2024/hash/25f7be9694d7b32d5cc670927b8091e1-Abstract-Conference.html
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P035
+TI  - HyperSU: Corpus-Driven Semantic-Unit Hypergraph for Retrieval-Augmented Generation
+AU  - Jiate Liu
+AU  - Liuyi Chen
+AU  - Zhengyi Yang
+AU  - Chuan He
+AU  - Mingchen Ju
+AU  - Bocheng Han
+AU  - Ruyi Liu
+AU  - Xu Zhou
+PY  - 2026
+DO  - 10.18653/2026.findings-emnlp.1058
+UR  - https://aclanthology.org/2026.findings-emnlp.1058/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P036
+TI  - HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+AU  - Gutiérrez, Bernal Jiménez
+AU  - Shu, Yiheng
+AU  - Gu, Yu
+AU  - Yasunaga, Michihiro
+AU  - Su, Yu
+PY  - 2024
+DO  - 10.52202/079017-1902
+UR  - https://arxiv.org/abs/2405.14831
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P037
+TI  - MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries
+AU  - Tang, Yixuan
+AU  - Yang, Yi
+PY  - 2024
+UR  - https://arxiv.org/abs/2401.15391
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P038
+TI  - StepChain GraphRAG: Reasoning Over Knowledge Graphs for Multi-Hop Question Answering
+AU  - Ni, Tengjun
+AU  - Yuan, Xin
+AU  - Li, Shenghong
+AU  - Wu, Kai
+AU  - Liu, Ren Ping
+AU  - Ni, Wei
+AU  - Zhang, Wenjie
+PY  - 2025
+UR  - https://arxiv.org/abs/2510.02827
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P039
+TI  - Query-Aware Spreading Activation for Multi-Hop Retrieval over Knowledge Graphs
+AU  - Makarov, Illia
+AU  - Glybovets, Mykola
+PY  - 2026
+UR  - https://arxiv.org/abs/2606.30133
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P040
+TI  - SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation
+AU  - Zijun Yao
+AU  - Weijian Qi
+AU  - Liangming Pan
+AU  - Shulin Cao
+AU  - Linmei Hu
+AU  - Liu Weichuan
+AU  - Lei Hou
+AU  - Juanzi Li
+PY  - 2025
+DO  - 10.18653/v1/2025.acl-long.1312
+UR  - https://aclanthology.org/2025.acl-long.1312/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P041
+TI  - GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation
+AU  - Luo, Linhao
+AU  - Zhao, Zicheng
+AU  - Haffari, Reza
+AU  - Phung, Dinh
+AU  - Gong, Chen
+AU  - Pan, Shirui
+PY  - 2026
+DO  - 10.52202/085713-1222
+UR  - https://papers.nips.cc/paper_files/paper/2025/hash/33ca0b1102b54c191a9a45a05adafaf4-Abstract.html
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P042
+TI  - A Query-Driven Graph Retrieval Framework with Adaptive Pruning for Multi-Hop Question Answering
+AU  - Wang, Hao
+AU  - Wang, Tianyue
+AU  - Sun, Zhongrui
+AU  - Li, He
+AU  - Cao, Zhengyang
+AU  - Feng, Lihang
+AU  - Wang, Dong
+PY  - 2026
+DO  - 10.3390/electronics15061263
+UR  - https://www.mdpi.com/2079-9292/15/6/1263
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P043
+TI  - Adaptive iterative retrieval for enhanced retrieval-augmented generation
+AU  - Wenhan Han
+AU  - Xiao Xiao
+AU  - Yaohang Li
+AU  - Jun Wang
+AU  - Mykola Pechenizkiy
+AU  - Meng Fang
+PY  - 2026
+DO  - 10.1016/j.neucom.2025.132272
+UR  - https://doi.org/10.1016/j.neucom.2025.132272
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P044
+TI  - Correctness is not Faithfulness in Retrieval Augmented Generation Attributions
+AU  - Jonas Wallat
+AU  - Maria Heuss
+AU  - Maarten De Rijke
+AU  - Avishek Anand
+PY  - 2025
+DO  - 10.1145/3731120.3744592
+UR  - https://research.uni-hannover.de/en/publications/correctness-is-not-faithfulness-in-retrieval-augmented-generation
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P046
+TI  - Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation
+AU  - Sirui Xia
+AU  - Xintao Wang
+AU  - Jiaqing Liang
+AU  - Yifei Zhang
+AU  - Weikang Zhou
+AU  - Jiaji Deng
+AU  - Fei Yu
+AU  - Yanghua Xiao
+PY  - 2025
+DO  - 10.18653/v1/2025.findings-naacl.55
+UR  - https://aclanthology.org/2025.findings-naacl.55/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P047
+TI  - Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation
+AU  - Qi, Jirui
+AU  - Sarti, Gabriele
+AU  - Fernández, Raquel
+AU  - Bisazza, Arianna
+PY  - 2024
+DO  - 10.18653/v1/2024.emnlp-main.347
+UR  - https://arxiv.org/abs/2406.13663
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P048
+TI  - From Documents to Decisions: Enterprise-Grade LLM Systems for Zero-Hallucination, Attributed Generation, and Regulatory Alignment
+AU  - Yenjou Wang
+AU  - Chihtan Cheng
+AU  - Jia-Wei Chang
+PY  - 2026
+DO  - 10.32604/cmes.2026.080888
+UR  - https://www.techscience.com/CMES/v147n2/67510
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P049
+TI  - (D)RAGged Into a Conflict: Detecting and Addressing Conflicting Sources in Retrieval-Augmented LLMs
+AU  - Arie Cattan
+AU  - Alon Jacovi
+AU  - Ori Ram
+AU  - Jonathan Herzig
+AU  - Roee Aharoni
+AU  - Sasha Goldshtein
+AU  - Eran Ofek
+AU  - Idan Szpektor
+AU  - Avi Caciularu
+PY  - 2025
+UR  - https://research.google/pubs/dragged-into-a-conflict-detecting-and-addressing-conflicting-sources-in-retrieval-augmented-llms
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P050
+TI  - Sufficient Context: A New Lens on Retrieval Augmented Generation Systems
+AU  - Joren, Hailey
+AU  - Zhang, Jianyi
+AU  - Ferng, Chun-Sung
+AU  - Juan, Da-Cheng
+AU  - Taly, Ankur
+AU  - Rashtchian, Cyrus
+PY  - 2024
+UR  - https://arxiv.org/abs/2411.06037
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P052
+TI  - EPRAG: An epistemic policy framework for action selection in multi-source enterprise retrieval-augmented generation
+AU  - Ismail Hakki Kinalioglu
+PY  - 2026
+DO  - 10.1016/j.knosys.2026.116929
+UR  - https://www.sciencedirect.com/science/article/abs/pii/S0950705126016552
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P053
+TI  - When Evidence Conflicts: Uncertainty and Order Effects in Retrieval-Augmented Biomedical Question Answering
+AU  - Han, Yikun
+AU  - Lan, Mengfei
+AU  - Kilicoglu, Halil
+PY  - 2026
+UR  - https://arxiv.org/abs/2605.14115
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P054
+TI  - Retrieval-Augmented Generation with Conflicting Evidence
+AU  - Wang, Han
+AU  - Prasad, Archiki
+AU  - Stengel-Eskin, Elias
+AU  - Bansal, Mohit
+PY  - 2025
+UR  - https://arxiv.org/abs/2504.13079
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P055
+TI  - Sufficiency-Gated Retrieval-Augmented Generation: Reducing Hallucination via Context Adequacy Estimation
+AU  - Hasanur Shishir
+AU  - Nazmun Nahar
+AU  - Rahat Azad
+AU  - Tanjim Mahmud
+AU  - Mohammad Hossain
+AU  - Karl Andersson
+PY  - 2026
+DO  - 10.32604/cmc.2026.088937
+UR  - https://www.techscience.com/cmc/online/detail/28681
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P056
+TI  - Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models
+AU  - Fei Wang
+AU  - Xingchen Wan
+AU  - Ruoxi Sun
+AU  - Jiefeng Chen
+AU  - Sercan O Arik
+PY  - 2025
+DO  - 10.18653/v1/2025.acl-long.1476
+UR  - https://aclanthology.org/2025.acl-long.1476/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P057
+TI  - Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence
+AU  - Hung-Ting Chen
+AU  - Michael Zhang
+AU  - Eunsol Choi
+PY  - 2022
+DO  - 10.18653/v1/2022.emnlp-main.146
+UR  - https://aclanthology.org/2022.emnlp-main.146/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P058
+TI  - COVER: Context-Driven Over-Refusal Verification in LLMs
+AU  - Giovanni Sullutrone
+AU  - Riccardo A. Vigliermo
+AU  - Sonia Bergamaschi
+AU  - Luca Sala
+PY  - 2025
+DO  - 10.18653/v1/2025.findings-acl.1243
+UR  - https://aclanthology.org/2025.findings-acl.1243/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P059
+TI  - All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG
+AU  - Dan Wang
+AU  - Guozhao Mo
+AU  - Yafei Shi
+AU  - Cheng Zhang
+AU  - Bo Zheng
+AU  - Boxi Cao
+AU  - Xuanang Chen
+AU  - Yaojie Lu
+AU  - Hongyu Lin
+AU  - Ben He
+AU  - Xianpei Han
+AU  - Le Sun
+PY  - 2026
+DO  - 10.18653/v1/2026.acl-long.338
+UR  - https://aclanthology.org/2026.acl-long.338/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P060
+TI  - Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness
+AU  - Bryan Li
+AU  - Fiona Luo
+AU  - Samar Haider
+AU  - Adwait Agashe
+AU  - Siyu Li
+AU  - Runqi Liu
+AU  - Miranda Muqing Miao
+AU  - Shriya Ramakrishnan
+AU  - Yuan Yuan
+AU  - Chris Callison-Burch
+PY  - 2025
+DO  - 10.18653/v1/2025.findings-acl.219
+UR  - https://aclanthology.org/2025.findings-acl.219/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P061
+TI  - MEMERAG: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation
+AU  - María Andrea Cruz Blandón
+AU  - Jayasimha Talur
+AU  - Bruno Charron
+AU  - Dong Liu
+AU  - Saab Mansour
+AU  - Marcello Federico
+PY  - 2025
+DO  - 10.18653/v1/2025.acl-long.1101
+UR  - https://aclanthology.org/2025.acl-long.1101/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P062
+TI  - Which Works Best for Vietnamese? A Practical Study of Information Retrieval Methods across Domains
+AU  - Long S. T. Nguyen
+AU  - Tho Quan
+PY  - 2026
+DO  - 10.18653/v1/2026.findings-eacl.110
+UR  - https://aclanthology.org/2026.findings-eacl.110/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P063
+TI  - Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion
+AU  - Jeonghyun Park
+AU  - ByeongJeong Kim
+AU  - Seojin Hwang
+AU  - Hwanhee Lee
+PY  - 2026
+DO  - 10.18653/v1/2026.findings-acl.1353
+UR  - https://aclanthology.org/2026.findings-acl.1353/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P064
+TI  - The Language of Evidence: Robustness and Bias in Code-Switched RAG
+AU  - Medha Hira
+AU  - Joel Mire
+AU  - Maarten Sap
+PY  - 2026
+DO  - 10.18653/2026.emnlp-main.1830
+UR  - https://aclanthology.org/2026.emnlp-main.1830/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P065
+TI  - Towards Vietnamese Question and Answer Generation: An Empirical Study
+AU  - Quoc-Hung Pham
+AU  - Huu-Loi Le
+AU  - Minh Dang Nhat
+AU  - Khang Tran T.
+AU  - Manh Tran-Tien
+AU  - Viet-Hung Dang
+AU  - Huy-The Vu
+AU  - Minh-Tien Nguyen
+AU  - Xuan-Hieu Phan
+PY  - 2024
+DO  - 10.1145/3675781
+UR  - https://doi.org/10.1145/3675781
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P066
+TI  - Retrieval-augmented generation in multilingual settings
+AU  - Nadezhda Chirkova
+AU  - David Rau
+AU  - Hervé Déjean
+AU  - Thibault Formal
+AU  - Stéphane Clinchant
+AU  - Vassilina Nikoulina
+PY  - 2024
+DO  - 10.18653/v1/2024.knowllm-1.15
+UR  - https://aclanthology.org/2024.knowllm-1.15/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P067
+TI  - A Survey of conversational AI from rule based to generative and retrieval augmented generation chatbots
+AU  - Ghaywat, Vaishnavi
+AU  - Singh, Abhyuday
+AU  - Shahade, Aniket K.
+AU  - Khan, Wasim
+AU  - Deshmukh, Priyanka V.
+PY  - 2026
+DO  - 10.1007/s44163-026-02373-y
+UR  - https://link.springer.com/article/10.1007/s44163-026-02373-y
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P068
+TI  - Evaluating Open-Source LLMs in RAG Systems: A Benchmark on Diploma Theses Abstracts Using Ragas
+AU  - Antal, Margit
+AU  - Buza, Krisztian
+PY  - 2025
+DO  - 10.1007/s44427-025-00006-3
+UR  - https://link.springer.com/article/10.1007/s44427-025-00006-3
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P069
+TI  - ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
+AU  - Saad-Falcon, Jon
+AU  - Khattab, Omar
+AU  - Potts, Christopher
+AU  - Zaharia, Matei
+PY  - 2023
+DO  - 10.18653/v1/2024.naacl-long.20
+UR  - https://arxiv.org/abs/2311.09476
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P070
+TI  - Claim level graph reasoning for training free LLM hallucination mitigation
+AU  - Wang, Haonan
+AU  - Zhao, Wen
+PY  - 2026
+DO  - 10.1007/s10791-026-10667-z
+UR  - https://link.springer.com/article/10.1007/s10791-026-10667-z
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P071
+TI  - Diffusion-Pretrained Dense and Contextual Embeddings
+AU  - Eslami, Sedigheh
+AU  - Gaiduk, Maksim
+AU  - Krimmel, Markus
+AU  - Milliken, Louis
+AU  - Wang, Bo
+AU  - Bykov, Denis
+PY  - 2026
+UR  - https://arxiv.org/abs/2602.11151
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P072
+TI  - Benchmarking Vision Language Models for Cultural Understanding
+AU  - Shravan Nayak
+AU  - Kanishk Jain
+AU  - Rabiul Awal
+AU  - Siva Reddy
+AU  - Sjoerd van Steenkiste
+AU  - Lisa Anne Hendricks
+AU  - Karolina Stanczak
+AU  - Aishwarya Agrawal
+PY  - 2024
+DO  - 10.18653/v1/2024.emnlp-main.329
+UR  - https://research.google/pubs/benchmarking-vision-language-models-for-cultural-understanding
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P073
+TI  - VQArt-Bench: A semantically rich VQA Benchmark for Art and Cultural Heritage
+AU  - Alfarano, A.
+AU  - Venturoli, L.
+AU  - del Castillo, D. Negueruela
+PY  - 2025
+UR  - https://arxiv.org/abs/2510.12750
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P074
+TI  - ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Dataset for World Heritage Sites in China
+AU  - Zhang, Yi
+AU  - Ma, Bolei
+AU  - Cao, Yong
+AU  - Wu, Chengyan
+AU  - Hershcovich, Daniel
+AU  - Haensch, Anna-Carolina
+PY  - 2026
+UR  - https://arxiv.org/abs/2606.08959
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P075
+TI  - BERGEN: A Benchmarking Library for Retrieval-Augmented Generation
+AU  - David Rau
+AU  - Hervé Déjean
+AU  - Nadezhda Chirkova
+AU  - Thibault Formal
+AU  - Shuai Wang
+AU  - Stéphane Clinchant
+AU  - Vassilina Nikoulina
+PY  - 2024
+DO  - 10.18653/v1/2024.findings-emnlp.449
+UR  - https://aclanthology.org/2024.findings-emnlp.449/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P076
+TI  - FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
+AU  - Sewon Min
+AU  - Kalpesh Krishna
+AU  - Xinxi Lyu
+AU  - Mike Lewis
+AU  - Wen-tau Yih
+AU  - Pang Koh
+AU  - Mohit Iyyer
+AU  - Luke Zettlemoyer
+AU  - Hannaneh Hajishirzi
+PY  - 2023
+DO  - 10.18653/v1/2023.emnlp-main.741
+UR  - https://aclanthology.org/2023.emnlp-main.741/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P077
+TI  - MIRACL: A Multilingual Retrieval Dataset Covering 18 Diverse Languages
+AU  - Xinyu Zhang
+AU  - Nandan Thakur
+AU  - Odunayo Ogundepo
+AU  - Ehsan Kamalloo
+AU  - David Alfonso-Hermelo
+AU  - Xiaoguang Li
+AU  - Qun Liu
+AU  - Mehdi Rezagholizadeh
+AU  - Jimmy Lin
+PY  - 2023
+DO  - 10.1162/tacl_a_00595
+UR  - https://aclanthology.org/2023.tacl-1.63/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P078
+TI  - RARR: Researching and Revising What Language Models Say, Using Language Models
+AU  - Luyu Gao
+AU  - Zhuyun Dai
+AU  - Panupong Pasupat
+AU  - Anthony Chen
+AU  - Arun Tejasvi Chaganty
+AU  - Yicheng Fan
+AU  - Vincent Zhao
+AU  - Ni Lao
+AU  - Hongrae Lee
+AU  - Da-Cheng Juan
+AU  - Kelvin Guu
+PY  - 2023
+DO  - 10.18653/v1/2023.acl-long.910
+UR  - https://aclanthology.org/2023.acl-long.910/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P079
+TI  - RAGAs: Automated Evaluation of Retrieval Augmented Generation
+AU  - Shahul Es
+AU  - Jithin James
+AU  - Luis Espinosa Anke
+AU  - Steven Schockaert
+PY  - 2024
+DO  - 10.18653/v1/2024.eacl-demo.16
+UR  - https://aclanthology.org/2024.eacl-demo.16/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P080
+TI  - SEA-VQA: Southeast Asian Cultural Context Dataset For Visual Question Answering
+AU  - Norawit Urailertprasert
+AU  - Peerat Limkonchotiwat
+AU  - Supasorn Suwajanakorn
+AU  - Sarana Nutanong
+PY  - 2024
+DO  - 10.18653/v1/2024.alvr-1.15
+UR  - https://aclanthology.org/2024.alvr-1.15/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P081
+TI  - VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery
+AU  - Ge, Jinchao
+AU  - Cheng, Tengfei
+AU  - Wu, Biao
+AU  - Zhang, Zeyu
+AU  - Huang, Shiya
+AU  - Bishop, Judith
+AU  - Shepherd, Gillian
+AU  - Fang, Meng
+AU  - Chen, Ling
+AU  - Zhao, Yang
+PY  - 2025
+UR  - https://arxiv.org/abs/2509.17191
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P082
+TI  - LongHisDoc: A Comprehensive Benchmark for Chinese Long Historical Document Understanding
+AU  - Shan, Zeyu
+AU  - Shi, Yongxin
+AU  - Wu, Shihang
+AU  - Zhang, Peirong
+AU  - Fang, Yuanyuan
+AU  - Wang, Zhaopeng
+AU  - Jin, Lianwen
+PY  - 2026
+UR  - https://arxiv.org/abs/2610.14531
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P083
+TI  - Evaluating a Radius-based Pipeline for Question Answering over Cultural (CIDOC-CRM based) Knowledge Graphs
+AU  - Nikos Gounakis
+AU  - Michalis Mountantonakis
+AU  - Yannis Tzitzikas
+PY  - 2023
+DO  - 10.1145/3603163.3609067
+UR  - https://doi.org/10.1145/3603163.3609067
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P084
+TI  - Enabling Large Language Models to Generate Text with Citations
+AU  - Tianyu Gao
+AU  - Howard Yen
+AU  - Jiatong Yu
+AU  - Danqi Chen
+PY  - 2023
+DO  - 10.18653/v1/2023.emnlp-main.398
+UR  - https://aclanthology.org/2023.emnlp-main.398/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P085
+TI  - Corrective Retrieval Augmented Generation
+AU  - Yan, Shi-Qi
+AU  - Gu, Jia-Chen
+AU  - Zhu, Yun
+AU  - Ling, Zhen-Hua
+PY  - 2024
+UR  - https://arxiv.org/abs/2401.15884
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P086
+TI  - From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+AU  - Edge, Darren
+AU  - Trinh, Ha
+AU  - Cheng, Newman
+AU  - Bradley, Joshua
+AU  - Chao, Alex
+AU  - Mody, Apurva
+AU  - Truitt, Steven
+AU  - Metropolitansky, Dasha
+AU  - Ness, Robert Osazuwa
+AU  - Larson, Jonathan
+PY  - 2024
+UR  - https://arxiv.org/abs/2404.16130
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P087
+TI  - RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
+AU  - Niu, Cheng
+AU  - Wu, Yuanhao
+AU  - Zhu, Juno
+AU  - Xu, Siliang
+AU  - Shum, Kashun
+AU  - Zhong, Randy
+AU  - Song, Juntong
+AU  - Zhang, Tong
+PY  - 2023
+UR  - https://arxiv.org/abs/2401.00396
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P088
+TI  - HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering
+AU  - Zhilin Yang
+AU  - Peng Qi
+AU  - Saizheng Zhang
+AU  - Yoshua Bengio
+AU  - William Cohen
+AU  - Ruslan Salakhutdinov
+AU  - Christopher D. Manning
+PY  - 2018
+DO  - 10.18653/v1/D18-1259
+UR  - https://aclanthology.org/D18-1259/
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P089
+TI  - A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers
+AU  - Dasigi, Pradeep
+AU  - Lo, Kyle
+AU  - Beltagy, Iz
+AU  - Cohan, Arman
+AU  - Smith, Noah A.
+AU  - Gardner, Matt
+PY  - 2021
+UR  - https://arxiv.org/abs/2105.03011
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - P090
+TI  - MuseumQA: A Fine-Grained Question Answering Dataset for Museums and Artifacts
+AU  - Fan Jin
+AU  - Qingling Chang
+AU  - Zhongwen Xu
+PY  - 2023
+DO  - 10.1145/3639479.3639525
+UR  - https://doi.org/10.1145/3639479.3639525
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N001
+TI  - An Evaluation of LLM-based Chatbots for Enhancing the Visitor’s User Experience at Cultural Exhibits
+AU  - Georgios Trichopoulos
+AU  - Kostas Ordoumpozanis
+AU  - George Caridakis
+PY  - 2026
+DO  - 10.1145/3775062
+UR  - https://doi.org/10.1145/3775062
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N002
+TI  - Enhancing Archival Transparency with AI: A RAG-based Case Study on Cinematic Heritage
+AU  - Enea Ahmedhodzic
+AU  - Andrea Mario Trentini
+PY  - 2025
+DO  - 10.2352/issn.2168-3204.2025.22.1.22
+UR  - https://doi.org/10.2352/issn.2168-3204.2025.22.1.22
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N003
+TI  - Cultural Faithfulness in Tourism Chatbots: A Structured Human Adjudication Framework for Traceable Retrieval-Augmented Generation
+AU  - Hindun Nurhidayati -
+AU  - Zulin Nurchayati -
+AU  - Sugiarto -
+PY  - 2026
+DO  - 10.21203/rs.3.rs-8994226/v1
+UR  - https://doi.org/10.21203/rs.3.rs-8994226/v1
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N004
+TI  - Benchmarking Large Language Models in Retrieval-Augmented Generation
+AU  - Jiawei Chen
+AU  - Hongyu Lin
+AU  - Xianpei Han
+AU  - Le Sun
+PY  - 2024
+DO  - 10.1609/aaai.v38i16.29728
+UR  - https://doi.org/10.1609/aaai.v38i16.29728
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N005
+TI  - When Abstention Gates Overtrust Noisy Evidence: An Empirical Audit of Calibration and Thresholding in Lightweight RAG Evidence-Sufficiency Models
+AU  - Kushaagra Patel
+PY  - 2026
+DO  - 10.58445/csk35g23
+UR  - https://doi.org/10.58445/csk35g23
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N006
+TI  - Evidence-Calibrated RAG for Unanswerable Question Answering: Retrieval Coverage, Abstention Calibration, and Hallucination-Proxy Analysis on SQuAD 2.0
+AU  - Ziliang Samuel Zhong
+AU  - Jing Chen
+AU  - Eric Zhong
+AU  - Xinzhuo Sun
+PY  - 2025
+DO  - 10.51903/jtie.v4i2.536
+UR  - https://doi.org/10.51903/jtie.v4i2.536
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N007
+TI  - SCMRAG: Self-Corrective Multihop Retrieval Augmented Generation System for LLM Agents
+AU  - Rishabh Agrawal
+AU  - Murtaza Asrani
+AU  - Hadi Youssef
+AU  - Apurva Narayan
+PY  - 2025
+DO  - 10.65109/wjjv5555
+UR  - https://doi.org/10.65109/wjjv5555
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N008
+TI  - Claim-Aware Scientific RAG: Evidence-First Retrieval and Abstention for Scientific Fact Responses on SciFact
+AU  - Jing Chen
+AU  -  Xinzhuo Sun
+AU  - Vincent Brown
+PY  - 2023
+DO  - 10.69987/jacs.2023.30102
+UR  - https://doi.org/10.69987/jacs.2023.30102
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N009
+TI  - Segmentation-Aware and Context-Reranked Retrieval-Augmented Generation for Vietnamese Question Answering
+AU  - Thuy Thi Le
+AU  - Tuoi Thi Phan
+PY  - 2026
+DO  - 10.1142/s1469026826500653
+UR  - https://doi.org/10.1142/s1469026826500653
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N010
+TI  - Evidence-Bound Factual Repair in Retrieval-Augmented LLM Answers: Separating Semantic Localization from Deterministic Realization
+AU  - Suresh Rajendran
+AU  - Divya Singaravelu
+PY  - 2026
+DO  - 10.20944/preprints202609.0490.v1
+UR  - https://doi.org/10.20944/preprints202609.0490.v1
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N011
+TI  - DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge
+AU  - Thakur, Atharva
+AU  - Saparov, Abulhair
+AU  - Ribeiro, Bruno
+PY  - 2026
+UR  - https://arxiv.org/abs/2610.28340
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N012
+TI  - HyperReCo: Retrieving and Connecting Evidence with Hypergraph Neural Networks for LLM Multi-hop Reasoning
+AU  - Zhao, Zicheng
+AU  - Luo, Linhao
+AU  - Dong, Junnan
+AU  - Luo, Haoran
+AU  - Li, Xiaoli
+AU  - Pan, Shirui
+AU  - Gong, Chen
+PY  - 2026
+UR  - https://arxiv.org/abs/2609.32327
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 
+
+TY  - GEN
+ID  - N013
+TI  - EuroBERT: Scaling Multilingual Encoders for European Languages
+AU  - Boizard, Nicolas
+AU  - Gisserot-Boukhlef, Hippolyte
+AU  - Alves, Duarte M.
+AU  - Martins, André
+AU  - Hammal, Ayoub
+AU  - Corro, Caio
+AU  - Hudelot, Céline
+AU  - Malherbe, Emmanuel
+AU  - Malaboeuf, Etienne
+AU  - Jourdan, Fanny
+AU  - Hautreux, Gabriel
+AU  - Alves, João
+AU  - Haddad, Kevin El
+AU  - Faysse, Manuel
+AU  - Peyrard, Maxime
+AU  - Guerreiro, Nuno M.
+AU  - Fernandes, Patrick
+AU  - Rei, Ricardo
+AU  - Colombo, Pierre
+PY  - 2025
+UR  - https://arxiv.org/abs/2503.05500
+N1  - Batch 1 metadata audit; NOT SCREENED; bibliographic version family, not confirmed independent study.
+ER  - 

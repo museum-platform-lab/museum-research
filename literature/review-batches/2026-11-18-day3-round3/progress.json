@@ -1,0 +1,40 @@
+{
+  "date_local": "2026-11-18",
+  "day": 3,
+  "round": 3,
+  "activity": "DEEP_READING_DOMAIN_COMPARISON_AND_INTEGRATED_REVIEW_DRAFT",
+  "literature_complete": false,
+  "review_deliverable": "LITERATURE_REVIEW_DRAFT_v1",
+  "papers": [
+    "P022",
+    "P047",
+    "P008"
+  ],
+  "extraction_rows": 3,
+  "evidence_rows": 20,
+  "cumulative_standardized_matrix_papers": 14,
+  "catalog_snapshot_works": 101,
+  "new_unmerged_leads": 2,
+  "leads_fulltext_read": 0,
+  "v01_labels_preserved": [
+    63,
+    30,
+    8
+  ],
+  "formal_included_added": 0,
+  "independent_human_checks": 0,
+  "study_model_runs": 0,
+  "native_database_searches_this_round": 0,
+  "data_rows_audited": 0,
+  "next_priority": [
+    "ReadanddeduplicateContextCite/FACTUMleads",
+    "Completeprotocol-drivenprimarysearchcoverage",
+    "ReconcileVietnameseclaim/evidenceannotationagainstaccessibledata",
+    "Independenthumanextraction/eligibilitycrosscheck"
+  ],
+  "limits": [
+    "P022numericversionalignment",
+    "ViCHcandidateexactreleaseandgatedrowaudit",
+    "Noformalnoveltyclaim"
+  ]
+}

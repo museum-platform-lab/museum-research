@@ -1,0 +1,30 @@
+{
+  "input_catalogue": 101,
+  "purposive_pilot": 24,
+  "not_in_pilot": 77,
+  "union_v1_suggestions": {
+    "INCLUDE": 15,
+    "UNSURE": 6,
+    "EXCLUDE": 3
+  },
+  "p1_v1_suggestions": {
+    "INCLUDE": 15,
+    "UNSURE": 6,
+    "EXCLUDE": 3
+  },
+  "p2_v1_suggestions": {
+    "INCLUDE": 11,
+    "UNSURE": 6,
+    "EXCLUDE": 7
+  },
+  "abstract_status": {
+    "PRIMARY_OR_REGISTRY_ABSTRACT_FETCHED_THIS_BATCH": 21,
+    "PRIOR_AUDIT_ABSTRACT_CARRIED_FORWARD": 2,
+    "MISSING_OR_BIBLIOGRAPHIC_TEXT_ONLY": 1
+  },
+  "formal_included": null,
+  "human_validation": "NOT_DONE",
+  "independent_crosscheck": "NOT_DONE",
+  "fulltext_extraction": "NOT_DONE",
+  "sample_representative": false
+}

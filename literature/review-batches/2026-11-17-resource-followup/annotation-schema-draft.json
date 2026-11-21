@@ -1,0 +1,27 @@
+{
+  "status": "DRAFT_PROJECT_PROPOSAL_NOT_OBSERVED_VICH_SCHEMA",
+  "unit": "question + evidence condition + generated response",
+  "fields": {
+    "question_id": "stable string",
+    "question": "string",
+    "corpus_answerability": "ANSWERABLE|UNANSWERABLE|AMBIGUOUS|UNKNOWN",
+    "corpus_snapshot": "version ID",
+    "gold_answer": "string or null, never invent missing answer",
+    "gold_evidence_sets": "list of alternative sufficient sets, each with document_id/span_id/offsets",
+    "retrieved_context_sufficiency": "FULL|PARTIAL|NONE|CONFLICT|UNKNOWN; define conflict resolution in guidelines",
+    "original_sources": "list with source_id/version/url/span text",
+    "derived_summaries": "separate entries with provenance to original sources, not treated as primary evidence automatically",
+    "claims": "list with claim_id/text and ENTAILED|CONTRADICTED|NOT_SUPPORTED|UNCERTAIN plus cited and gold span IDs",
+    "response_action": "ANSWER|PARTIAL_ANSWER|ABSTAIN|CLARIFY|DENY",
+    "annotators": "independent human IDs and original decisions, not AI impersonation",
+    "adjudication": "resolution and locator",
+    "split": "development|calibration|sealed_test, group by source/topic where appropriate"
+  },
+  "not_yet_done": [
+    "human annotation",
+    "IAA",
+    "schema pilot",
+    "gold dataset release",
+    "model experiments"
+  ]
+}

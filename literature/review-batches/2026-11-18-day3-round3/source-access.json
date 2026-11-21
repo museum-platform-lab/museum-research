@@ -1,0 +1,56 @@
+[
+  {
+    "key": "P022_publisher",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-21324-2_35",
+    "utc": "2026-11-18T09:27:33.780367+00:00",
+    "http": 200,
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-032-21324-2_35?error=cookies_not_supported&code=c21fded9-863b-40b5-b151-838311451eec",
+    "truncated": false,
+    "bytes": 317458,
+    "sha256": "9db0f3f0f004ee17987da0010bcd90165e75e6d8dde0325fbe9564a2e4620e53",
+    "file": "raw/P022_publisher.html"
+  },
+  {
+    "key": "P022_pdf",
+    "url": "https://arxiv.org/pdf/2606.28358",
+    "utc": "2026-11-18T09:27:33.781456+00:00",
+    "http": 200,
+    "final_url": "https://arxiv.org/pdf/2606.28358",
+    "truncated": false,
+    "bytes": 490245,
+    "sha256": "ebb872a2c95309dbb40f90a5de8727943456aa8b8effcbe2b64f89ae89ac14d1",
+    "file": "raw/P022_pdf.pdf"
+  },
+  {
+    "key": "P047_pdf",
+    "url": "https://aclanthology.org/2024.emnlp-main.347.pdf",
+    "utc": "2026-11-18T09:27:33.782161+00:00",
+    "http": 200,
+    "final_url": "https://aclanthology.org/2024.emnlp-main.347.pdf",
+    "truncated": false,
+    "bytes": 3226543,
+    "sha256": "441a57279588efcfd94a887dbf1c9f9318805da587d8d9a1968162651d8e15e9",
+    "file": "raw/P047_pdf.pdf"
+  },
+  {
+    "key": "ViCH_registry",
+    "url": "https://huggingface.co/api/datasets/quockhangdev/vietnamese-cultural-rag-benchmark",
+    "utc": "2026-11-18T09:27:33.782761+00:00",
+    "http": 200,
+    "final_url": "https://huggingface.co/api/datasets/quockhangdev/vietnamese-cultural-rag-benchmark",
+    "truncated": false,
+    "bytes": 2697,
+    "sha256": "c193e71918bb53236144a9660f0ddcac2a4f0afa0913605571653c2c19cd1162",
+    "file": "raw/ViCH_registry.json"
+  },
+  {
+    "key": "P008_uploaded_pdf",
+    "url": "https://ctujs.ctu.edu.vn/index.php/ctujs/article/view/3152",
+    "origin": "USER_SUPPLIED_PUBLISHED_ARTICLE_PDF",
+    "read_at_utc": "2026-11-18T09:30:47.319023+00:00",
+    "bytes": 879283,
+    "sha256": "58123969ea0e3531f0156e6a8de2af334e7a0ce84ad848843ecdbce9dd7f93d1",
+    "file": "raw/P008.pdf",
+    "http": null
+  }
+]

@@ -1,0 +1,7 @@
+metric_key,paper_id,name,unit,meaning,not_interchangeable_with
+P046_CAS,P046,Correct Attribution Score,Answer clause anditscited evidence,Fraction ofclauses supported bycitations;an attribution-support quality score,P032_CAS
+P032_CAS,P032,Counterfactually-estimated Attribution Sensitivity,"Per-query metric difference,absolute value",Mean absolute change afteraddingauthorsiplabels;higher meansmore sensitivity,P046_CAS
+P026_CITATION_RECALL,P026,RAGE Citation Recall,Distinct relevantdocuments,Relevantdocuments cited / relevantdocuments supplied,P084_CITATION_RECALL
+P084_CITATION_RECALL,P084,ALCE Citation Recall,Outputstatement,Statementsjointly supported byattachedcitations / alloutputstatements,P026_CITATION_RECALL
+P018_FAITHFULNESS,P018,RAGChecker Faithfulness,Claim relative toanyretrievedchunk,Context entailment/support,P044_CITATION_FAITHFULNESS
+P044_CITATION_FAITHFULNESS,P044,Causal Citation Faithfulness,"Claimandciteddocument,generationprocess",Source support pluscausalimpact;singleprobe notcompletecertificate,P018_FAITHFULNESS

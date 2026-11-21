@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "batch": "B1_METADATA_AUDIT",
+  "snapshot_date": "2026-11-16",
+  "source_branch_base_commit": "70f8f383e1529bd615edea95f5ea85faad64958b",
+  "input_snapshot": "literature/discovery/2026-11-16",
+  "input_raw_archive_drive_id": "1VuoN0XTPU8ErdXxZmV867d2U9FzxKPsy",
+  "drive_folder_id": "11SENe7krQ60c6R5rsaewxX639Jyd7lgV",
+  "drive_folder_url": "https://drive.google.com/drive/folders/11SENe7krQ60c6R5rsaewxX639Jyd7lgV",
+  "verification": "IDs, names and byte counts checked in Drive folder listing. SHA-256 below calculated locally; archive not re-downloaded to rehash.",
+  "entries": [
+    {
+      "name": "README.md",
+      "drive_file_id": "1qrDGBfOn5XPukPjg-u0H0Urby2Ut3d5a",
+      "drive_url": "https://drive.google.com/file/d/1qrDGBfOn5XPukPjg-u0H0Urby2Ut3d5a/view?usp=drivesdk",
+      "bytes": 5622,
+      "sha256_local": "3e69f2804efdb0a479c47dc5aac0bdfea6baf066a55498f30daa8aec12798ab3"
+    },
+    {
+      "name": "master_catalog_batch1.csv",
+      "drive_file_id": "1pF1M4HAeEqcrjrRxyzgiQE8050H9wV1q",
+      "drive_url": "https://drive.google.com/file/d/1pF1M4HAeEqcrjrRxyzgiQE8050H9wV1q/view?usp=drivesdk",
+      "bytes": 79224,
+      "sha256_local": "2fc44971c0ba2c93838a926cc28705a1b0e7b22dacaebfab3c20a605b0153782"
+    },
+    {
+      "name": "new_candidates_from_leads.csv",
+      "drive_file_id": "1TIslsvykDJLx40E0Sn4AC0G6bvvAnkm5",
+      "drive_url": "https://drive.google.com/file/d/1TIslsvykDJLx40E0Sn4AC0G6bvvAnkm5/view?usp=drivesdk",
+      "bytes": 11261,
+      "sha256_local": "5e8c2b97cda1da2eb2f5cbe4ba6d30f1741f6bca2060f57fefb9c03b125e03f2"
+    },
+    {
+      "name": "zotero_batch1.ris",
+      "drive_file_id": "1i_M16czuQMTjojH7l2AMxeQefNc1x09o",
+      "drive_url": "https://drive.google.com/file/d/1i_M16czuQMTjojH7l2AMxeQefNc1x09o/view?usp=drivesdk",
+      "bytes": 43160,
+      "sha256_local": "a5c06d056e56744484ad89a1e2dfd23a845a3e5d53bd2db98c87905ddf5c9e92"
+    },
+    {
+      "name": "museum_literature_audit_batch1_2026-11-16.zip",
+      "drive_file_id": "1v4rj3QpbRSLks24_bMKnFQi9G_peB43-",
+      "drive_url": "https://drive.google.com/file/d/1v4rj3QpbRSLks24_bMKnFQi9G_peB43-/view?usp=drivesdk",
+      "bytes": 924342,
+      "sha256_local": "be864967e81cc1b4be0b496ce1ec3ca3acb9c78844a39b69ca81496291939e65"
+    }
+  ]
+}
