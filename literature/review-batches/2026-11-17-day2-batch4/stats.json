@@ -1,0 +1,23 @@
+{
+  "v01_unchanged": {
+    "INCLUDE": 63,
+    "UNSURE": 30,
+    "EXCLUDE": 8
+  },
+  "v02_trial": {
+    "CONTINUE_RELEVANCE": 70,
+    "PENDING": 12,
+    "BACKGROUND_PROVISIONAL": 11,
+    "OUTSIDE_CURRENT_PRIMARY": 8
+  },
+  "kg_trial7_continue": 7,
+  "reviews8_provisional": 8,
+  "boundary5": {
+    "background_provisional": 3,
+    "pending": 2
+  },
+  "new_formal_included": 0,
+  "model_experiments": 0,
+  "human_validation": "NOT_DONE",
+  "protocol_status": "V0.2_DRAFT_NOT_LOCKED"
+}

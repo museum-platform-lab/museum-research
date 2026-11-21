@@ -1,0 +1,3 @@
+discovery_id,previous_year,previous_venue,verified_published_year,verified_venue,evidence_url,locator,status,changes_original_snapshot
+P050,2024,UNKNOWN,2025,International Conference on Learning Representations 2025,https://proceedings.iclr.cc/paper_files/paper/2025/hash/33dffa2e3d2ab74a783d1a8c292f66d9-Abstract-Conference.html,"page title, authors, conference track",PUBLISHED_VERSION_IDENTIFIED_FULLTEXT_PENDING,NO
+P069,2023 (preprint),NAACL2024 known from audit,2024,NAACL 2024 Long Papers,https://aclanthology.org/2024.naacl-long.20/,"title, authors, venue/year metadata and abstract",PUBLISHED_ABSTRACT_USED,NO

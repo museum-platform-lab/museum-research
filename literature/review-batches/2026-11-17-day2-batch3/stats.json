@@ -1,0 +1,25 @@
+{
+  "ledger_total": 101,
+  "ledger_unchanged": {
+    "INCLUDE": 63,
+    "UNSURE": 30,
+    "EXCLUDE": 8
+  },
+  "boundary_audited": 30,
+  "groups": {
+    "ACCESS_MISSING": 5,
+    "SECONDARY_REVIEW": 8,
+    "GENERAL_KG": 7,
+    "TASK_BOUNDARY": 5,
+    "LANGUAGE_METHOD": 4,
+    "TOOL_BENCHMARK": 1
+  },
+  "new_screening_decisions": 0,
+  "protocol_status": "V0.2_DRAFT_NOT_LOCKED",
+  "fulltext_main_text_review": [
+    "P017"
+  ],
+  "table_images_verified": false,
+  "human_validation": "NOT_DONE",
+  "formal_included": null
+}

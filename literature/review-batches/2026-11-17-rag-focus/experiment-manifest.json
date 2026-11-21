@@ -1,0 +1,78 @@
+{
+  "status": "DRAFT_NOT_RUN",
+  "focus": "TEXT_FIRST_EVIDENCE_GROUNDED_RAG",
+  "KG_status": "COMPARATOR_OR_FUTURE_EXTENSION_NOT_REQUIRED_CORE",
+  "corpus_snapshot": null,
+  "corpus_license_and_rights_verified": false,
+  "source_span_mapping_verified": false,
+  "dataset_splits": {
+    "development": null,
+    "calibration": null,
+    "sealed_test": null,
+    "split_group": "source/topic and question condition cluster; exact scheme pending"
+  },
+  "models": {
+    "generator": null,
+    "embedding": null,
+    "reranker": null,
+    "summary_generator": null,
+    "sufficiency_judge": null,
+    "claim_verifier": null,
+    "evaluation_judge": null
+  },
+  "budget": {
+    "top_k": null,
+    "pre_rerank_pool": null,
+    "context_tokens": null,
+    "max_output_tokens": null,
+    "compute_budget": null
+  },
+  "thresholds": {
+    "confidence": null,
+    "sufficiency": null,
+    "combined": null,
+    "verifier": null,
+    "frozen_before_test": false
+  },
+  "retrieval_arms": [
+    "R_ORIGINAL_BM25_NO_RR",
+    "R_ORIGINAL_BM25_RR",
+    "R_ORIGINAL_DENSE_NO_RR",
+    "R_ORIGINAL_DENSE_RR",
+    "R_ORIGINAL_HYBRID_RRF_NO_RR",
+    "R_ORIGINAL_HYBRID_RRF_RR",
+    "R_SACR_BM25_NO_RR",
+    "R_SACR_BM25_RR",
+    "R_SACR_DENSE_NO_RR",
+    "R_SACR_DENSE_RR",
+    "R_SACR_HYBRID_RRF_NO_RR",
+    "R_SACR_HYBRID_RRF_RR"
+  ],
+  "generation_controls": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "G5"
+  ],
+  "policy_arms": [
+    "A_OFF_NONE",
+    "A_OFF_CONFIDENCE_ONLY",
+    "A_OFF_SUFFICIENCY_ONLY",
+    "A_OFF_SUFFICIENCY_PLUS_CONFIDENCE",
+    "A_ON_NONE",
+    "A_ON_CONFIDENCE_ONLY",
+    "A_ON_SUFFICIENCY_ONLY",
+    "A_ON_SUFFICIENCY_PLUS_CONFIDENCE"
+  ],
+  "unique_generation_policy_configs": 12,
+  "study_runs_completed": 0,
+  "human_annotation_completed": 0,
+  "pending": [
+    "source corpus and rights",
+    "human gold and independent reviewer",
+    "checkpoints and feasible compute",
+    "budgets and pilots",
+    "calibration and test lock"
+  ]
+}

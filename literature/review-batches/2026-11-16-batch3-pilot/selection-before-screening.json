@@ -1,0 +1,33 @@
+{
+  "purpose": "PURPOSIVE_CRITERIA_PILOT_NOT_REPRESENTATIVE",
+  "selected_ids_before_reading_abstracts": [
+    "P001",
+    "P002",
+    "P004",
+    "P008",
+    "P010",
+    "P012",
+    "P014",
+    "P016",
+    "P073",
+    "P081",
+    "P083",
+    "P090",
+    "P018",
+    "P044",
+    "P046",
+    "P049",
+    "P050",
+    "P058",
+    "P069",
+    "P076",
+    "P086",
+    "N001",
+    "N008",
+    "N011"
+  ],
+  "selection_rationale": "12 domain examples including text/VQA/KG/survey and broad dataset, 9 methods including support/conflict/abstention and adjacent generation, 3 recovered leads including visitor UX and scientific QA boundaries. No inferred prevalence from sample.",
+  "selected": 24,
+  "catalogue_total": 101,
+  "remaining": 77
+}

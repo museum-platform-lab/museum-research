@@ -1,0 +1,6 @@
+id,role,retriever,representation,rerank,verifier,gate,draft_reuse,status
+G1,PLAIN_RAG,BM25,ORIGINAL,False,OFF,NONE,G5 is shared control for policy ablations,DRAFT_NOT_RUN
+G2,PLAIN_RAG,DENSE,ORIGINAL,False,OFF,NONE,G5 is shared control for policy ablations,DRAFT_NOT_RUN
+G3,PLAIN_RAG,HYBRID_RRF,ORIGINAL,False,OFF,NONE,G5 is shared control for policy ablations,DRAFT_NOT_RUN
+G4,PLAIN_RAG,HYBRID_RRF,ORIGINAL,True,OFF,NONE,G5 is shared control for policy ablations,DRAFT_NOT_RUN
+G5,PLAIN_RAG,HYBRID_RRF,SACR,True,OFF,NONE,G5 is shared control for policy ablations,DRAFT_NOT_RUN

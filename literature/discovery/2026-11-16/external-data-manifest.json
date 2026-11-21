@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-11-16",
+  "stage": "DISCOVERY_NOT_SCREENED",
+  "source_repository_base_commit": "98806fbc6952105b89bfe1b5028c3d589b702d58",
+  "drive_root_folder_id": "13Xwzcz9MeVEvNezgdENWJGnY2BglsJi7",
+  "drive_results_folder_id": "17yhD1g0HvJcBhPrkeWTvmFRsAL8D1cLB",
+  "drive_results_folder_url": "https://drive.google.com/drive/folders/17yhD1g0HvJcBhPrkeWTvmFRsAL8D1cLB",
+  "verification": "Upload IDs/names and byte counts verified by folder listing; SHA-256 calculated locally, not independently rehashed after download.",
+  "notes": [
+    "Raw search/metadata logs and scripts are in the archive on Drive.",
+    "No API key or PDF full-text is committed.",
+    "Original uploaded README differs from the repository README only by the Git snapshot usage section."
+  ],
+  "entries": [
+    {
+      "name": "master_paper_list.csv",
+      "drive_file_id": "1LykOIeYFXD273f4096v7Mzb5P6gdASJU",
+      "drive_url": "https://drive.google.com/file/d/1LykOIeYFXD273f4096v7Mzb5P6gdASJU/view?usp=drivesdk",
+      "bytes": 137519,
+      "sha256_local": "d2742507207317f1f099b12fcf30917dd835bfa5e27146c1ab0c2a096ab60ec8",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    },
+    {
+      "name": "zotero_import.ris",
+      "drive_file_id": "12sX9LDw0P1VBOR6_g5VRy5ouqVdAwyRO",
+      "drive_url": "https://drive.google.com/file/d/12sX9LDw0P1VBOR6_g5VRy5ouqVdAwyRO/view?usp=drivesdk",
+      "bytes": 37786,
+      "sha256_local": "584e9ed01a60bcf67d434c9ae2df526263342f06059e614234b974ca652311fe",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    },
+    {
+      "name": "references.bib",
+      "drive_file_id": "1ZTuL29m5h_htkTROLn6LyrQRuDEgehm2",
+      "drive_url": "https://drive.google.com/file/d/1ZTuL29m5h_htkTROLn6LyrQRuDEgehm2/view?usp=drivesdk",
+      "bytes": 33491,
+      "sha256_local": "595093b4e4c78c7f29d3e77b291c57fd592b3b7097da8b39617bf4ae7fb708b1",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    },
+    {
+      "name": "README.md",
+      "drive_file_id": "1J7Jr8oe4-GTKZ1K-e9-wQzFwDN_rrcH2",
+      "drive_url": "https://drive.google.com/file/d/1J7Jr8oe4-GTKZ1K-e9-wQzFwDN_rrcH2/view?usp=drivesdk",
+      "bytes": 6324,
+      "sha256_local": "ebd07b39cfaa8286793a16ded77d3f749f05e3e622eb5cd4ed733314018c88dc",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    },
+    {
+      "name": "search-log.md",
+      "drive_file_id": "1zzbwL9jyjkv0DaiI_bmHcMj4gUe0ZCT1",
+      "drive_url": "https://drive.google.com/file/d/1zzbwL9jyjkv0DaiI_bmHcMj4gUe0ZCT1/view?usp=drivesdk",
+      "bytes": 4183,
+      "sha256_local": "adc33e9f3f5abebd19f238af2fe002d8684288c273128d85ff1396072c5175ae",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    },
+    {
+      "name": "museum_literature_discovery_2026-11-16.zip",
+      "drive_file_id": "1VuoN0XTPU8ErdXxZmV867d2U9FzxKPsy",
+      "drive_url": "https://drive.google.com/file/d/1VuoN0XTPU8ErdXxZmV867d2U9FzxKPsy/view?usp=drivesdk",
+      "bytes": 869861,
+      "sha256_local": "6ddafafb92c5518da9c3c38a44c17804dd6d8db7728b0cafeb86678d004e5582",
+      "source": "Discovery metadata/logs generated 2026-11-16",
+      "rights_status": "Metadata and research bookkeeping; source articles and datasets retain their own rights."
+    }
+  ]
+}

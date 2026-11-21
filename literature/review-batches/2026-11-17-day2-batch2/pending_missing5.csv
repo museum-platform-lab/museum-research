@@ -1,0 +1,6 @@
+id,reason,next_route,suggestion,exclusion_code
+P033,Publisher/shell+web open403; search shows primary partial abstract only,Author repository or library full abstract,UNSURE,NONE_NOT_EC_A
+P043,Publisher/shell+web open403; primary search snippet insufficient,Author copy or legitimate publisher access,UNSURE,NONE_NOT_EC_A
+P052,Publisher403; primary snippet mentions policy taxonomy but full abstract not recovered,"Author repository or Zenodo linked artifact, identity/version check",UNSURE,NONE_NOT_EC_A
+P055,Publisher HTML endpoint empty; canonical web open403,Verify current article page/full abstract from publisher,UNSURE,NONE_NOT_EC_A
+P090,Prior publisher403/Crossref no abstract; exact lookup still bibliography only,Author/institution repository or library,UNSURE,NONE_NOT_EC_A

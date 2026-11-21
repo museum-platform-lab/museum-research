@@ -1,0 +1,1 @@
+query_run_id,protocol_version,protocol_lock_commit,database,owner,exact_query,fields,filters,run_at,timezone,source_url,reported_hits,exported_records,pages_or_cursor,sort_order,truncation,raw_file,sha256_local,notes

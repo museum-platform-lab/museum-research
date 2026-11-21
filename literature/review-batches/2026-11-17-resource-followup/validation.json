@@ -1,0 +1,12 @@
+{
+  "schema_rows": 24,
+  "rag_qa_count_4719": true,
+  "raw_rows_accessed": false,
+  "hf_gated_manual": true,
+  "matrix_works": 6,
+  "baselines": 6,
+  "experiments_run": 0,
+  "formal_catalogue_modified": false,
+  "knowledge_graph_direction": "OPEN_NOT_COMMITTED",
+  "assertion_scope": "Metadata and inspected source only; exact Vichat release identity pending"
+}

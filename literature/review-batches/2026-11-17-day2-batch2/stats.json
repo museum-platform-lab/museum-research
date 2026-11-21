@@ -1,0 +1,14 @@
+{
+  "total101": 101,
+  "decisions": {
+    "INCLUDE": 63,
+    "UNSURE": 30,
+    "EXCLUDE": 8
+  },
+  "abstracts_recovered": 8,
+  "union_changes": 6,
+  "missing_remaining": 5,
+  "targeted_dossiers": 4,
+  "human_validation": "NOT_DONE",
+  "formal_included": null
+}

@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "csv_rows_match_stats": true,
+    "paper_ids_unique": true,
+    "ris_count_matches": true,
+    "bib_count_matches": true,
+    "all_not_screened": true,
+    "no_formal_included": true,
+    "all_have_source_urls": true,
+    "all_have_title": true,
+    "no_duplicate_doi_exact": true,
+    "no_duplicate_normalized_title_exact": true
+  },
+  "missing_authors": [],
+  "missing_year": [],
+  "doi_present": 61,
+  "abstract_present": 78,
+  "notes": "Presence/format and bookkeeping checks only; not scientific validity or human screening."
+}
