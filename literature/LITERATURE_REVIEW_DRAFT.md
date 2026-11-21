@@ -149,6 +149,8 @@ Kiểm mã và CSV công khai của EPRAG (P052) xác nhận tiền lệ tách t
 
 Bản v1 đã nối bằng chứng thành một lập luận nghiên cứu. Nó chưa chốt gap, quy môdataset, targetvenue hoặcdeployment. Các kết quả số làtác giảbáo cáo; không cómodel experiment của dự án trong lầncập nhật này.
 
+Ngày 21–22/11/2026, hồ sơ Week 6 của Paper 1 đã có bảng đối soát 101 ứng viên, bảng bằng chứng dự thảo 14 nghiên cứu, bản đồ P/I/C/O và nhật ký thử truy vấn. Hai bài ưu tiên P033 và P052 tiếp tục chờ toàn văn. Các lượt thử nguồn chưa tạo số đếm PRISMA chính thức. [Hồ sơ Week 6](review-batches/2026-11-21-week6-paper1/README.md).
+
 ## Hồ sơ đi kèm
 
 Đợt hiện tại có`reading-extraction3.csv`,`evidence-ledger20.csv`,`cross-paper-matrix14.csv`,`domain-evidence9.csv`,`publication-evidence-delta.csv`,`unreviewed-leads2.csv` và source/progress/validation metadata tại`review-batches/2026-11-18-day3-round3/`. Các ledger cũ được giữ nguyên đểtruy vết. Raw PDFs/text nằm trongarchive dữ liệu, không được đưa và o public Git.

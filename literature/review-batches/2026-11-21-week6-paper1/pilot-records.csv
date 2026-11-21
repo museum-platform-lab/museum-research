@@ -1,0 +1,11 @@
+run_id,rank,source_id,title,year_reported,doi,catalog_id_match,stage
+S2-domain,1,2910120a2add862b948352c9d45d70bd9fbd42d9,Visual Question Answering for Cultural Heritage,2020,10.1088/1757-899X/949/1/012074,,PRE_LOCK_PILOT_ONLY
+S2-domain,2,9ab3b3924bb76b3091b10cc1cf21878ae16f8df8,AVQANet: Amharic Visual Question and Answering Model Based on Deep Learning Approach for Ethiopian Museum Visitors,2026,10.1111/coin.70242,,PRE_LOCK_PILOT_ONLY
+S2-domain,3,4ef38862b704e18da7a4aa0afe9e97f56c3fe510,Translating Natural Language Questions into CIDOC-CRM SPARQL Queries to Access Cultural Heritage Knowledge Bases,2025,10.1145/3715156,,PRE_LOCK_PILOT_ONLY
+S2-domain,4,10be82098017fc2d60b0572cea8032afabad5d1a,A Dataset for Multimodal Question Answering in the Cultural Heritage Domain,2016,,P012,PRE_LOCK_PILOT_ONLY
+S2-domain,5,40c94da632caef6e245f0887350e6fd096a37f0e,Research and Development of Museum Cultural Relics Knowledge Intelligent Interactive System based on Tourism Subject Portrait,2026,10.1109/ICICACS68679.2026.11578690,,PRE_LOCK_PILOT_ONLY
+S2-domain,6,54010cd1d5ef740e11426567c4c948060eba6010,"""What's that called?"": a multimodal fusion approach for cultural heritage virtual experiences",2020,,,PRE_LOCK_PILOT_ONLY
+S2-domain,7,c46c9fb4c9557a4a16676e0fc8fa17584c24c6eb,LLM-Driven CIDOC-CRM Knowledge Graph Extraction from Museum Archives,2025,10.1109/ICoDSA67155.2025.11157312,,PRE_LOCK_PILOT_ONLY
+S2-domain,8,fc8248a1fdf0016a6916a375bcd0d9a13c8c080a,Understanding Museum Exhibits using Vision-Language Reasoning,2024,10.1109/ICCV51701.2025.00215,P013,PRE_LOCK_PILOT_ONLY
+S2-domain,9,2a40c4e6b95cbd15d897a4e9b0ef1464580e4574,"CeylonXR: A Virtual Tour Platform Powered by Gaussian Splatting, Multiplayer Immersion, and AI Guidance",2025,10.1109/ISMAR-Adjunct68609.2025.00013,,PRE_LOCK_PILOT_ONLY
+S2-domain,10,6b73ed581f3b9b9a760800f9ac278cf46f64507e,A multi-representation knowledge graph approach for preserving and reasoning over Ming-style furniture,2026,10.1038/s40494-026-02779-y,,PRE_LOCK_PILOT_ONLY
